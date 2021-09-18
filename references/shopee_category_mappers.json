@@ -1,0 +1,7988 @@
+[{
+  "_id": "13153",
+  "cz_category_id": "289",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.411Z"
+  }
+},{
+  "_id": "12962",
+  "cz_category_id": "289",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.447Z"
+  }
+},{
+  "_id": "12961",
+  "cz_category_id": "289",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.451Z"
+  }
+},{
+  "_id": "12960",
+  "cz_category_id": "289",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.455Z"
+  }
+},{
+  "_id": "12948",
+  "cz_category_id": "289",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.459Z"
+  }
+},{
+  "_id": "13151",
+  "cz_category_id": "413",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.462Z"
+  }
+},{
+  "_id": "12955",
+  "cz_category_id": "413",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.464Z"
+  }
+},{
+  "_id": "12953",
+  "cz_category_id": "413",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.467Z"
+  }
+},{
+  "_id": "12944",
+  "cz_category_id": "413",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.470Z"
+  }
+},{
+  "_id": "12956",
+  "cz_category_id": "413",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.472Z"
+  }
+},{
+  "_id": "12954",
+  "cz_category_id": "413",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.475Z"
+  }
+},{
+  "_id": "13452",
+  "cz_category_id": "691",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.477Z"
+  }
+},{
+  "_id": "13451",
+  "cz_category_id": "691",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.480Z"
+  }
+},{
+  "_id": "10381",
+  "cz_category_id": "691",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.482Z"
+  }
+},{
+  "_id": "19037",
+  "cz_category_id": "691",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.484Z"
+  }
+},{
+  "_id": "19250",
+  "cz_category_id": "627",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.487Z"
+  }
+},{
+  "_id": "19249",
+  "cz_category_id": "627",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.489Z"
+  }
+},{
+  "_id": "19248",
+  "cz_category_id": "627",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.491Z"
+  }
+},{
+  "_id": "19234",
+  "cz_category_id": "627",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.494Z"
+  }
+},{
+  "_id": "19251",
+  "cz_category_id": "628",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.496Z"
+  }
+},{
+  "_id": "19235",
+  "cz_category_id": "628",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.498Z"
+  }
+},{
+  "_id": "19253",
+  "cz_category_id": "629",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.501Z"
+  }
+},{
+  "_id": "19237",
+  "cz_category_id": "629",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.503Z"
+  }
+},{
+  "_id": "19260",
+  "cz_category_id": "630",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.505Z"
+  }
+},{
+  "_id": "19244",
+  "cz_category_id": "630",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.508Z"
+  }
+},{
+  "_id": "13459",
+  "cz_category_id": "574",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.510Z"
+  }
+},{
+  "_id": "13324",
+  "cz_category_id": "574",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.512Z"
+  }
+},{
+  "_id": "10262",
+  "cz_category_id": "635",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.514Z"
+  }
+},{
+  "_id": "16836",
+  "cz_category_id": "465",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.517Z"
+  }
+},{
+  "_id": "16828",
+  "cz_category_id": "465",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.519Z"
+  }
+},{
+  "_id": "16820",
+  "cz_category_id": "465",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.521Z"
+  }
+},{
+  "_id": "16813",
+  "cz_category_id": "465",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.523Z"
+  }
+},{
+  "_id": "16789",
+  "cz_category_id": "465",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.525Z"
+  }
+},{
+  "_id": "13440",
+  "cz_category_id": "276",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.527Z"
+  }
+},{
+  "_id": "19889",
+  "cz_category_id": "569",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.529Z"
+  }
+},{
+  "_id": "13321",
+  "cz_category_id": "570",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.531Z"
+  }
+},{
+  "_id": "9838",
+  "cz_category_id": "616",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.533Z"
+  }
+},{
+  "_id": "9836",
+  "cz_category_id": "616",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.535Z"
+  }
+},{
+  "_id": "9834",
+  "cz_category_id": "616",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.537Z"
+  }
+},{
+  "_id": "9832",
+  "cz_category_id": "616",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.539Z"
+  }
+},{
+  "_id": "21578",
+  "cz_category_id": "619",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.541Z"
+  }
+},{
+  "_id": "21577",
+  "cz_category_id": "619",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.543Z"
+  }
+},{
+  "_id": "21574",
+  "cz_category_id": "620",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.545Z"
+  }
+},{
+  "_id": "19035",
+  "cz_category_id": "620",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.547Z"
+  }
+},{
+  "_id": "19027",
+  "cz_category_id": "620",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.549Z"
+  }
+},{
+  "_id": "19026",
+  "cz_category_id": "620",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.552Z"
+  }
+},{
+  "_id": "19020",
+  "cz_category_id": "620",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.555Z"
+  }
+},{
+  "_id": "19019",
+  "cz_category_id": "620",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.557Z"
+  }
+},{
+  "_id": "21575",
+  "cz_category_id": "621",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.560Z"
+  }
+},{
+  "_id": "19028",
+  "cz_category_id": "621",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.564Z"
+  }
+},{
+  "_id": "19021",
+  "cz_category_id": "621",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.566Z"
+  }
+},{
+  "_id": "11976",
+  "cz_category_id": "621",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.569Z"
+  }
+},{
+  "_id": "21576",
+  "cz_category_id": "622",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.571Z"
+  }
+},{
+  "_id": "17264",
+  "cz_category_id": "623",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.573Z"
+  }
+},{
+  "_id": "17263",
+  "cz_category_id": "623",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.576Z"
+  }
+},{
+  "_id": "17262",
+  "cz_category_id": "623",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.579Z"
+  }
+},{
+  "_id": "17233",
+  "cz_category_id": "623",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.582Z"
+  }
+},{
+  "_id": "13793",
+  "cz_category_id": "623",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.584Z"
+  }
+},{
+  "_id": "13488",
+  "cz_category_id": "623",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.586Z"
+  }
+},{
+  "_id": "11406",
+  "cz_category_id": "623",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.589Z"
+  }
+},{
+  "_id": "13330",
+  "cz_category_id": "695",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.591Z"
+  }
+},{
+  "_id": "23865",
+  "cz_category_id": "407",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.593Z"
+  }
+},{
+  "_id": "23864",
+  "cz_category_id": "407",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.595Z"
+  }
+},{
+  "_id": "23863",
+  "cz_category_id": "407",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.597Z"
+  }
+},{
+  "_id": "23862",
+  "cz_category_id": "407",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.599Z"
+  }
+},{
+  "_id": "23866",
+  "cz_category_id": "407",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.601Z"
+  }
+},{
+  "_id": "13149",
+  "cz_category_id": "414",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.603Z"
+  }
+},{
+  "_id": "12950",
+  "cz_category_id": "414",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.605Z"
+  }
+},{
+  "_id": "12949",
+  "cz_category_id": "414",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.607Z"
+  }
+},{
+  "_id": "12940",
+  "cz_category_id": "414",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.612Z"
+  }
+},{
+  "_id": "11846",
+  "cz_category_id": "644",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.615Z"
+  }
+},{
+  "_id": "8574",
+  "cz_category_id": "324",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.617Z"
+  }
+},{
+  "_id": "11843",
+  "cz_category_id": "645",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.620Z"
+  }
+},{
+  "_id": "11817",
+  "cz_category_id": "648",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.622Z"
+  }
+},{
+  "_id": "11841",
+  "cz_category_id": "646",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.624Z"
+  }
+},{
+  "_id": "11844",
+  "cz_category_id": "647",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.627Z"
+  }
+},{
+  "_id": "19267",
+  "cz_category_id": "641",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.629Z"
+  }
+},{
+  "_id": "11275",
+  "cz_category_id": "539",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.631Z"
+  }
+},{
+  "_id": "6068",
+  "cz_category_id": "539",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.633Z"
+  }
+},{
+  "_id": "19278",
+  "cz_category_id": "564",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.635Z"
+  }
+},{
+  "_id": "13790",
+  "cz_category_id": "564",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.637Z"
+  }
+},{
+  "_id": "13788",
+  "cz_category_id": "564",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.639Z"
+  }
+},{
+  "_id": "8896",
+  "cz_category_id": "564",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.641Z"
+  }
+},{
+  "_id": "6078",
+  "cz_category_id": "564",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.643Z"
+  }
+},{
+  "_id": "13326",
+  "cz_category_id": "696",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.645Z"
+  }
+},{
+  "_id": "23417",
+  "cz_category_id": "408",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.646Z"
+  }
+},{
+  "_id": "8615",
+  "cz_category_id": "690",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.648Z"
+  }
+},{
+  "_id": "8597",
+  "cz_category_id": "690",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.650Z"
+  }
+},{
+  "_id": "14377",
+  "cz_category_id": "673",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.652Z"
+  }
+},{
+  "_id": "14376",
+  "cz_category_id": "673",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.658Z"
+  }
+},{
+  "_id": "14375",
+  "cz_category_id": "673",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.660Z"
+  }
+},{
+  "_id": "14374",
+  "cz_category_id": "673",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.662Z"
+  }
+},{
+  "_id": "14373",
+  "cz_category_id": "673",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.664Z"
+  }
+},{
+  "_id": "14365",
+  "cz_category_id": "673",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.666Z"
+  }
+},{
+  "_id": "16931",
+  "cz_category_id": "649",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.668Z"
+  }
+},{
+  "_id": "16929",
+  "cz_category_id": "649",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.670Z"
+  }
+},{
+  "_id": "9685",
+  "cz_category_id": "649",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.672Z"
+  }
+},{
+  "_id": "19272",
+  "cz_category_id": "636",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.673Z"
+  }
+},{
+  "_id": "19271",
+  "cz_category_id": "636",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.675Z"
+  }
+},{
+  "_id": "19270",
+  "cz_category_id": "637",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.677Z"
+  }
+},{
+  "_id": "19266",
+  "cz_category_id": "638",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.679Z"
+  }
+},{
+  "_id": "13187",
+  "cz_category_id": "451",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.681Z"
+  }
+},{
+  "_id": "20205",
+  "cz_category_id": "427",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.683Z"
+  }
+},{
+  "_id": "16707",
+  "cz_category_id": "427",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.685Z"
+  }
+},{
+  "_id": "8753",
+  "cz_category_id": "427",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.687Z"
+  }
+},{
+  "_id": "16691",
+  "cz_category_id": "427",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.689Z"
+  }
+},{
+  "_id": "13115",
+  "cz_category_id": "428",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.690Z"
+  }
+},{
+  "_id": "13119",
+  "cz_category_id": "429",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.692Z"
+  }
+},{
+  "_id": "13118",
+  "cz_category_id": "429",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.694Z"
+  }
+},{
+  "_id": "13116",
+  "cz_category_id": "430",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.696Z"
+  }
+},{
+  "_id": "13120",
+  "cz_category_id": "431",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.698Z"
+  }
+},{
+  "_id": "14156",
+  "cz_category_id": "374",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.700Z"
+  }
+},{
+  "_id": "13150",
+  "cz_category_id": "415",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.701Z"
+  }
+},{
+  "_id": "12951",
+  "cz_category_id": "415",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.703Z"
+  }
+},{
+  "_id": "12942",
+  "cz_category_id": "415",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.705Z"
+  }
+},{
+  "_id": "13125",
+  "cz_category_id": "639",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.707Z"
+  }
+},{
+  "_id": "10379",
+  "cz_category_id": "640",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.709Z"
+  }
+},{
+  "_id": "13783",
+  "cz_category_id": "567",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.711Z"
+  }
+},{
+  "_id": "6030",
+  "cz_category_id": "567",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.713Z"
+  }
+},{
+  "_id": "9840",
+  "cz_category_id": "617",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.715Z"
+  }
+},{
+  "_id": "16663",
+  "cz_category_id": "585",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.717Z"
+  }
+},{
+  "_id": "16662",
+  "cz_category_id": "585",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.719Z"
+  }
+},{
+  "_id": "16661",
+  "cz_category_id": "585",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.721Z"
+  }
+},{
+  "_id": "16660",
+  "cz_category_id": "585",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.723Z"
+  }
+},{
+  "_id": "16659",
+  "cz_category_id": "585",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.725Z"
+  }
+},{
+  "_id": "13323",
+  "cz_category_id": "697",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.727Z"
+  }
+},{
+  "_id": "23422",
+  "cz_category_id": "409",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.729Z"
+  }
+},{
+  "_id": "23418",
+  "cz_category_id": "409",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.731Z"
+  }
+},{
+  "_id": "13460",
+  "cz_category_id": "586",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.734Z"
+  }
+},{
+  "_id": "13298",
+  "cz_category_id": "586",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.736Z"
+  }
+},{
+  "_id": "13274",
+  "cz_category_id": "586",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.738Z"
+  }
+},{
+  "_id": "13152",
+  "cz_category_id": "416",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.740Z"
+  }
+},{
+  "_id": "12958",
+  "cz_category_id": "416",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.741Z"
+  }
+},{
+  "_id": "12957",
+  "cz_category_id": "416",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.743Z"
+  }
+},{
+  "_id": "12946",
+  "cz_category_id": "416",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.745Z"
+  }
+},{
+  "_id": "13299",
+  "cz_category_id": "587",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.746Z"
+  }
+},{
+  "_id": "13301",
+  "cz_category_id": "588",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.748Z"
+  }
+},{
+  "_id": "13328",
+  "cz_category_id": "698",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.750Z"
+  }
+},{
+  "_id": "23419",
+  "cz_category_id": "410",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.752Z"
+  }
+},{
+  "_id": "23421",
+  "cz_category_id": "410",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.753Z"
+  }
+},{
+  "_id": "13422",
+  "cz_category_id": "84",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.755Z"
+  }
+},{
+  "_id": "13090",
+  "cz_category_id": "120",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.757Z"
+  }
+},{
+  "_id": "8707",
+  "cz_category_id": "439",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.759Z"
+  }
+},{
+  "_id": "8706",
+  "cz_category_id": "439",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.760Z"
+  }
+},{
+  "_id": "8705",
+  "cz_category_id": "439",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.762Z"
+  }
+},{
+  "_id": "6104",
+  "cz_category_id": "439",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.764Z"
+  }
+},{
+  "_id": "13438",
+  "cz_category_id": "439",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.767Z"
+  }
+},{
+  "_id": "13899",
+  "cz_category_id": "434",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.769Z"
+  }
+},{
+  "_id": "13167",
+  "cz_category_id": "437",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.771Z"
+  }
+},{
+  "_id": "12952",
+  "cz_category_id": "417",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.773Z"
+  }
+},{
+  "_id": "14403",
+  "cz_category_id": "160",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.775Z"
+  }
+},{
+  "_id": "14402",
+  "cz_category_id": "160",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.777Z"
+  }
+},{
+  "_id": "14399",
+  "cz_category_id": "160",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.779Z"
+  }
+},{
+  "_id": "8918",
+  "cz_category_id": "138",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.781Z"
+  }
+},{
+  "_id": "13101",
+  "cz_category_id": "128",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.782Z"
+  }
+},{
+  "_id": "13096",
+  "cz_category_id": "126",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.784Z"
+  }
+},{
+  "_id": "13136",
+  "cz_category_id": "129",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.786Z"
+  }
+},{
+  "_id": "13135",
+  "cz_category_id": "129",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.788Z"
+  }
+},{
+  "_id": "13134",
+  "cz_category_id": "129",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.790Z"
+  }
+},{
+  "_id": "13133",
+  "cz_category_id": "129",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.791Z"
+  }
+},{
+  "_id": "13132",
+  "cz_category_id": "129",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.794Z"
+  }
+},{
+  "_id": "13131",
+  "cz_category_id": "129",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.796Z"
+  }
+},{
+  "_id": "13130",
+  "cz_category_id": "129",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.798Z"
+  }
+},{
+  "_id": "13129",
+  "cz_category_id": "129",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.799Z"
+  }
+},{
+  "_id": "12793",
+  "cz_category_id": "676",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.801Z"
+  }
+},{
+  "_id": "8855",
+  "cz_category_id": "282",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.803Z"
+  }
+},{
+  "_id": "8580",
+  "cz_category_id": "282",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.805Z"
+  }
+},{
+  "_id": "9914",
+  "cz_category_id": "86",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.807Z"
+  }
+},{
+  "_id": "19042",
+  "cz_category_id": "97",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.808Z"
+  }
+},{
+  "_id": "14029",
+  "cz_category_id": "97",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.810Z"
+  }
+},{
+  "_id": "14028",
+  "cz_category_id": "97",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.812Z"
+  }
+},{
+  "_id": "13094",
+  "cz_category_id": "124",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.816Z"
+  }
+},{
+  "_id": "19269",
+  "cz_category_id": "95",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.818Z"
+  }
+},{
+  "_id": "13127",
+  "cz_category_id": "95",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.820Z"
+  }
+},{
+  "_id": "13126",
+  "cz_category_id": "95",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.822Z"
+  }
+},{
+  "_id": "6132",
+  "cz_category_id": "279",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.824Z"
+  }
+},{
+  "_id": "13533",
+  "cz_category_id": "240",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.826Z"
+  }
+},{
+  "_id": "8584",
+  "cz_category_id": "263",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.828Z"
+  }
+},{
+  "_id": "8566",
+  "cz_category_id": "263",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.830Z"
+  }
+},{
+  "_id": "8562",
+  "cz_category_id": "263",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.832Z"
+  }
+},{
+  "_id": "8555",
+  "cz_category_id": "263",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.834Z"
+  }
+},{
+  "_id": "6138",
+  "cz_category_id": "263",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.836Z"
+  }
+},{
+  "_id": "10367",
+  "cz_category_id": "284",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.839Z"
+  }
+},{
+  "_id": "10366",
+  "cz_category_id": "284",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.841Z"
+  }
+},{
+  "_id": "10365",
+  "cz_category_id": "284",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.844Z"
+  }
+},{
+  "_id": "16948",
+  "cz_category_id": "381",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.846Z"
+  }
+},{
+  "_id": "8710",
+  "cz_category_id": "440",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.848Z"
+  }
+},{
+  "_id": "8709",
+  "cz_category_id": "440",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.850Z"
+  }
+},{
+  "_id": "6103",
+  "cz_category_id": "440",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.852Z"
+  }
+},{
+  "_id": "10356",
+  "cz_category_id": "495",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.854Z"
+  }
+},{
+  "_id": "12806",
+  "cz_category_id": "677",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.856Z"
+  }
+},{
+  "_id": "13429",
+  "cz_category_id": "678",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.859Z"
+  }
+},{
+  "_id": "13427",
+  "cz_category_id": "678",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.861Z"
+  }
+},{
+  "_id": "12813",
+  "cz_category_id": "678",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.862Z"
+  }
+},{
+  "_id": "13327",
+  "cz_category_id": "699",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.864Z"
+  }
+},{
+  "_id": "11376",
+  "cz_category_id": "201",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.866Z"
+  }
+},{
+  "_id": "10175",
+  "cz_category_id": "201",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.868Z"
+  }
+},{
+  "_id": "10174",
+  "cz_category_id": "201",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.869Z"
+  }
+},{
+  "_id": "18992",
+  "cz_category_id": "187",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.872Z"
+  }
+},{
+  "_id": "18984",
+  "cz_category_id": "187",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.874Z"
+  }
+},{
+  "_id": "18997",
+  "cz_category_id": "189",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.876Z"
+  }
+},{
+  "_id": "18995",
+  "cz_category_id": "189",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.878Z"
+  }
+},{
+  "_id": "18987",
+  "cz_category_id": "189",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.881Z"
+  }
+},{
+  "_id": "11273",
+  "cz_category_id": "538",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.884Z"
+  }
+},{
+  "_id": "11810",
+  "cz_category_id": "508",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.886Z"
+  }
+},{
+  "_id": "11335",
+  "cz_category_id": "508",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.888Z"
+  }
+},{
+  "_id": "9567",
+  "cz_category_id": "508",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.891Z"
+  }
+},{
+  "_id": "8945",
+  "cz_category_id": "508",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.894Z"
+  }
+},{
+  "_id": "8944",
+  "cz_category_id": "508",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.896Z"
+  }
+},{
+  "_id": "13303",
+  "cz_category_id": "577",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.898Z"
+  }
+},{
+  "_id": "13465",
+  "cz_category_id": "700",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.901Z"
+  }
+},{
+  "_id": "16846",
+  "cz_category_id": "236",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.902Z"
+  }
+},{
+  "_id": "16844",
+  "cz_category_id": "236",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.904Z"
+  }
+},{
+  "_id": "16782",
+  "cz_category_id": "236",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.906Z"
+  }
+},{
+  "_id": "8539",
+  "cz_category_id": "262",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.908Z"
+  }
+},{
+  "_id": "8538",
+  "cz_category_id": "262",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.909Z"
+  }
+},{
+  "_id": "8537",
+  "cz_category_id": "262",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.911Z"
+  }
+},{
+  "_id": "8536",
+  "cz_category_id": "262",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.913Z"
+  }
+},{
+  "_id": "8535",
+  "cz_category_id": "262",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.918Z"
+  }
+},{
+  "_id": "6140",
+  "cz_category_id": "262",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.920Z"
+  }
+},{
+  "_id": "21494",
+  "cz_category_id": "75",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.922Z"
+  }
+},{
+  "_id": "20207",
+  "cz_category_id": "75",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.923Z"
+  }
+},{
+  "_id": "20206",
+  "cz_category_id": "75",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.925Z"
+  }
+},{
+  "_id": "13425",
+  "cz_category_id": "75",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.927Z"
+  }
+},{
+  "_id": "13424",
+  "cz_category_id": "75",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.928Z"
+  }
+},{
+  "_id": "18678",
+  "cz_category_id": "81",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.930Z"
+  }
+},{
+  "_id": "16706",
+  "cz_category_id": "81",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.931Z"
+  }
+},{
+  "_id": "13436",
+  "cz_category_id": "81",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.933Z"
+  }
+},{
+  "_id": "13223",
+  "cz_category_id": "81",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.938Z"
+  }
+},{
+  "_id": "13222",
+  "cz_category_id": "81",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.939Z"
+  }
+},{
+  "_id": "13221",
+  "cz_category_id": "81",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.941Z"
+  }
+},{
+  "_id": "13220",
+  "cz_category_id": "81",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.943Z"
+  }
+},{
+  "_id": "13219",
+  "cz_category_id": "81",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.945Z"
+  }
+},{
+  "_id": "13218",
+  "cz_category_id": "81",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.951Z"
+  }
+},{
+  "_id": "5988",
+  "cz_category_id": "81",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.953Z"
+  }
+},{
+  "_id": "16703",
+  "cz_category_id": "76",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.955Z"
+  }
+},{
+  "_id": "8758",
+  "cz_category_id": "76",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.956Z"
+  }
+},{
+  "_id": "20208",
+  "cz_category_id": "76",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.959Z"
+  }
+},{
+  "_id": "13169",
+  "cz_category_id": "435",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.960Z"
+  }
+},{
+  "_id": "13168",
+  "cz_category_id": "435",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.962Z"
+  }
+},{
+  "_id": "8561",
+  "cz_category_id": "260",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.964Z"
+  }
+},{
+  "_id": "8560",
+  "cz_category_id": "260",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.965Z"
+  }
+},{
+  "_id": "8559",
+  "cz_category_id": "260",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.967Z"
+  }
+},{
+  "_id": "8558",
+  "cz_category_id": "260",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.969Z"
+  }
+},{
+  "_id": "8557",
+  "cz_category_id": "260",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.970Z"
+  }
+},{
+  "_id": "8556",
+  "cz_category_id": "260",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.972Z"
+  }
+},{
+  "_id": "10372",
+  "cz_category_id": "272",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.974Z"
+  }
+},{
+  "_id": "8567",
+  "cz_category_id": "272",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.975Z"
+  }
+},{
+  "_id": "8754",
+  "cz_category_id": "82",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.977Z"
+  }
+},{
+  "_id": "8571",
+  "cz_category_id": "323",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.978Z"
+  }
+},{
+  "_id": "16941",
+  "cz_category_id": "368",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.980Z"
+  }
+},{
+  "_id": "16940",
+  "cz_category_id": "368",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.982Z"
+  }
+},{
+  "_id": "16939",
+  "cz_category_id": "368",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.983Z"
+  }
+},{
+  "_id": "16938",
+  "cz_category_id": "368",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.985Z"
+  }
+},{
+  "_id": "16937",
+  "cz_category_id": "368",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.987Z"
+  }
+},{
+  "_id": "16936",
+  "cz_category_id": "368",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.989Z"
+  }
+},{
+  "_id": "8549",
+  "cz_category_id": "267",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.991Z"
+  }
+},{
+  "_id": "13785",
+  "cz_category_id": "555",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.992Z"
+  }
+},{
+  "_id": "12990",
+  "cz_category_id": "555",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.994Z"
+  }
+},{
+  "_id": "11322",
+  "cz_category_id": "161",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.995Z"
+  }
+},{
+  "_id": "11311",
+  "cz_category_id": "161",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.997Z"
+  }
+},{
+  "_id": "11318",
+  "cz_category_id": "163",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:40.999Z"
+  }
+},{
+  "_id": "8913",
+  "cz_category_id": "182",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.001Z"
+  }
+},{
+  "_id": "11328",
+  "cz_category_id": "217",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.003Z"
+  }
+},{
+  "_id": "6010",
+  "cz_category_id": "217",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.005Z"
+  }
+},{
+  "_id": "13071",
+  "cz_category_id": "116",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.011Z"
+  }
+},{
+  "_id": "13433",
+  "cz_category_id": "117",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.013Z"
+  }
+},{
+  "_id": "13076",
+  "cz_category_id": "117",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.015Z"
+  }
+},{
+  "_id": "13075",
+  "cz_category_id": "117",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.016Z"
+  }
+},{
+  "_id": "13074",
+  "cz_category_id": "117",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.017Z"
+  }
+},{
+  "_id": "11842",
+  "cz_category_id": "643",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.019Z"
+  }
+},{
+  "_id": "19256",
+  "cz_category_id": "631",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.020Z"
+  }
+},{
+  "_id": "19240",
+  "cz_category_id": "631",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.021Z"
+  }
+},{
+  "_id": "19264",
+  "cz_category_id": "632",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.023Z"
+  }
+},{
+  "_id": "19262",
+  "cz_category_id": "632",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.024Z"
+  }
+},{
+  "_id": "13122",
+  "cz_category_id": "92",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.025Z"
+  }
+},{
+  "_id": "19263",
+  "cz_category_id": "633",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.027Z"
+  }
+},{
+  "_id": "19261",
+  "cz_category_id": "633",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.028Z"
+  }
+},{
+  "_id": "19259",
+  "cz_category_id": "633",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.030Z"
+  }
+},{
+  "_id": "19258",
+  "cz_category_id": "633",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.031Z"
+  }
+},{
+  "_id": "19257",
+  "cz_category_id": "633",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.033Z"
+  }
+},{
+  "_id": "19255",
+  "cz_category_id": "633",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.034Z"
+  }
+},{
+  "_id": "19254",
+  "cz_category_id": "633",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.035Z"
+  }
+},{
+  "_id": "19247",
+  "cz_category_id": "633",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.037Z"
+  }
+},{
+  "_id": "19246",
+  "cz_category_id": "633",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.039Z"
+  }
+},{
+  "_id": "19245",
+  "cz_category_id": "633",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.040Z"
+  }
+},{
+  "_id": "19243",
+  "cz_category_id": "633",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.042Z"
+  }
+},{
+  "_id": "19242",
+  "cz_category_id": "633",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.043Z"
+  }
+},{
+  "_id": "19241",
+  "cz_category_id": "633",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.045Z"
+  }
+},{
+  "_id": "19239",
+  "cz_category_id": "633",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.046Z"
+  }
+},{
+  "_id": "19238",
+  "cz_category_id": "633",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.047Z"
+  }
+},{
+  "_id": "19233",
+  "cz_category_id": "633",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.049Z"
+  }
+},{
+  "_id": "11316",
+  "cz_category_id": "150",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.050Z"
+  }
+},{
+  "_id": "12814",
+  "cz_category_id": "153",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.052Z"
+  }
+},{
+  "_id": "12805",
+  "cz_category_id": "153",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.053Z"
+  }
+},{
+  "_id": "23861",
+  "cz_category_id": "153",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.054Z"
+  }
+},{
+  "_id": "14389",
+  "cz_category_id": "154",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.056Z"
+  }
+},{
+  "_id": "14388",
+  "cz_category_id": "154",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.057Z"
+  }
+},{
+  "_id": "14387",
+  "cz_category_id": "154",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.059Z"
+  }
+},{
+  "_id": "14386",
+  "cz_category_id": "154",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.060Z"
+  }
+},{
+  "_id": "14385",
+  "cz_category_id": "154",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.062Z"
+  }
+},{
+  "_id": "14384",
+  "cz_category_id": "154",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.063Z"
+  }
+},{
+  "_id": "14383",
+  "cz_category_id": "154",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.065Z"
+  }
+},{
+  "_id": "14370",
+  "cz_category_id": "154",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.066Z"
+  }
+},{
+  "_id": "12496",
+  "cz_category_id": "154",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.068Z"
+  }
+},{
+  "_id": "14393",
+  "cz_category_id": "154",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.069Z"
+  }
+},{
+  "_id": "23414",
+  "cz_category_id": "155",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.071Z"
+  }
+},{
+  "_id": "19265",
+  "cz_category_id": "634",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.072Z"
+  }
+},{
+  "_id": "10378",
+  "cz_category_id": "634",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.074Z"
+  }
+},{
+  "_id": "13750",
+  "cz_category_id": "547",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.075Z"
+  }
+},{
+  "_id": "16942",
+  "cz_category_id": "529",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.077Z"
+  }
+},{
+  "_id": "16935",
+  "cz_category_id": "529",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.079Z"
+  }
+},{
+  "_id": "16934",
+  "cz_category_id": "529",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.080Z"
+  }
+},{
+  "_id": "13721",
+  "cz_category_id": "529",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.082Z"
+  }
+},{
+  "_id": "13720",
+  "cz_category_id": "529",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.083Z"
+  }
+},{
+  "_id": "13719",
+  "cz_category_id": "529",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.085Z"
+  }
+},{
+  "_id": "13718",
+  "cz_category_id": "529",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.086Z"
+  }
+},{
+  "_id": "13717",
+  "cz_category_id": "529",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.088Z"
+  }
+},{
+  "_id": "13414",
+  "cz_category_id": "529",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.089Z"
+  }
+},{
+  "_id": "23413",
+  "cz_category_id": "412",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.090Z"
+  }
+},{
+  "_id": "12959",
+  "cz_category_id": "418",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.092Z"
+  }
+},{
+  "_id": "13439",
+  "cz_category_id": "488",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.093Z"
+  }
+},{
+  "_id": "16448",
+  "cz_category_id": "487",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.095Z"
+  }
+},{
+  "_id": "13453",
+  "cz_category_id": "487",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.096Z"
+  }
+},{
+  "_id": "16672",
+  "cz_category_id": "450",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.098Z"
+  }
+},{
+  "_id": "14319",
+  "cz_category_id": "450",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.099Z"
+  }
+},{
+  "_id": "13110",
+  "cz_category_id": "450",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.101Z"
+  }
+},{
+  "_id": "13104",
+  "cz_category_id": "450",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.102Z"
+  }
+},{
+  "_id": "13068",
+  "cz_category_id": "450",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.104Z"
+  }
+},{
+  "_id": "11269",
+  "cz_category_id": "283",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.106Z"
+  }
+},{
+  "_id": "11268",
+  "cz_category_id": "283",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.108Z"
+  }
+},{
+  "_id": "11267",
+  "cz_category_id": "283",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.109Z"
+  }
+},{
+  "_id": "11266",
+  "cz_category_id": "283",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.110Z"
+  }
+},{
+  "_id": "9672",
+  "cz_category_id": "283",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.112Z"
+  }
+},{
+  "_id": "10920",
+  "cz_category_id": "519",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.113Z"
+  }
+},{
+  "_id": "10919",
+  "cz_category_id": "519",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.115Z"
+  }
+},{
+  "_id": "10918",
+  "cz_category_id": "519",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.116Z"
+  }
+},{
+  "_id": "8607",
+  "cz_category_id": "519",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.118Z"
+  }
+},{
+  "_id": "8606",
+  "cz_category_id": "519",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.119Z"
+  }
+},{
+  "_id": "8605",
+  "cz_category_id": "519",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.120Z"
+  }
+},{
+  "_id": "6002",
+  "cz_category_id": "519",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.122Z"
+  }
+},{
+  "_id": "8544",
+  "cz_category_id": "269",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.123Z"
+  }
+},{
+  "_id": "10374",
+  "cz_category_id": "285",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.125Z"
+  }
+},{
+  "_id": "8576",
+  "cz_category_id": "285",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.126Z"
+  }
+},{
+  "_id": "8553",
+  "cz_category_id": "270",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.127Z"
+  }
+},{
+  "_id": "8547",
+  "cz_category_id": "270",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.129Z"
+  }
+},{
+  "_id": "8546",
+  "cz_category_id": "270",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.130Z"
+  }
+},{
+  "_id": "6139",
+  "cz_category_id": "270",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.131Z"
+  }
+},{
+  "_id": "6130",
+  "cz_category_id": "270",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.133Z"
+  }
+},{
+  "_id": "16946",
+  "cz_category_id": "395",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.135Z"
+  }
+},{
+  "_id": "11327",
+  "cz_category_id": "507",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.137Z"
+  }
+},{
+  "_id": "11326",
+  "cz_category_id": "507",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.141Z"
+  }
+},{
+  "_id": "11325",
+  "cz_category_id": "507",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.142Z"
+  }
+},{
+  "_id": "11324",
+  "cz_category_id": "507",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.144Z"
+  }
+},{
+  "_id": "6007",
+  "cz_category_id": "507",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.146Z"
+  }
+},{
+  "_id": "19279",
+  "cz_category_id": "492",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.147Z"
+  }
+},{
+  "_id": "13763",
+  "cz_category_id": "492",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.149Z"
+  }
+},{
+  "_id": "8899",
+  "cz_category_id": "492",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.150Z"
+  }
+},{
+  "_id": "13444",
+  "cz_category_id": "492",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.152Z"
+  }
+},{
+  "_id": "13443",
+  "cz_category_id": "492",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.155Z"
+  }
+},{
+  "_id": "13441",
+  "cz_category_id": "492",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.157Z"
+  }
+},{
+  "_id": "8589",
+  "cz_category_id": "492",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.159Z"
+  }
+},{
+  "_id": "8588",
+  "cz_category_id": "492",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.162Z"
+  }
+},{
+  "_id": "8587",
+  "cz_category_id": "492",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.165Z"
+  }
+},{
+  "_id": "8585",
+  "cz_category_id": "492",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.167Z"
+  }
+},{
+  "_id": "6133",
+  "cz_category_id": "492",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.170Z"
+  }
+},{
+  "_id": "17184",
+  "cz_category_id": "624",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.172Z"
+  }
+},{
+  "_id": "17267",
+  "cz_category_id": "625",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.173Z"
+  }
+},{
+  "_id": "17266",
+  "cz_category_id": "625",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.175Z"
+  }
+},{
+  "_id": "17235",
+  "cz_category_id": "625",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.178Z"
+  }
+},{
+  "_id": "13937",
+  "cz_category_id": "625",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.180Z"
+  }
+},{
+  "_id": "17258",
+  "cz_category_id": "626",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.182Z"
+  }
+},{
+  "_id": "17257",
+  "cz_category_id": "626",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.183Z"
+  }
+},{
+  "_id": "17255",
+  "cz_category_id": "626",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.185Z"
+  }
+},{
+  "_id": "17254",
+  "cz_category_id": "626",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.187Z"
+  }
+},{
+  "_id": "17253",
+  "cz_category_id": "626",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.188Z"
+  }
+},{
+  "_id": "19036",
+  "cz_category_id": "502",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.190Z"
+  }
+},{
+  "_id": "10380",
+  "cz_category_id": "502",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.192Z"
+  }
+},{
+  "_id": "17269",
+  "cz_category_id": "548",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.194Z"
+  }
+},{
+  "_id": "17268",
+  "cz_category_id": "548",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.195Z"
+  }
+},{
+  "_id": "17238",
+  "cz_category_id": "548",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.197Z"
+  }
+},{
+  "_id": "13794",
+  "cz_category_id": "552",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.199Z"
+  }
+},{
+  "_id": "13293",
+  "cz_category_id": "572",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.201Z"
+  }
+},{
+  "_id": "14292",
+  "cz_category_id": "541",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.202Z"
+  }
+},{
+  "_id": "13751",
+  "cz_category_id": "541",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.204Z"
+  }
+},{
+  "_id": "16943",
+  "cz_category_id": "530",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.205Z"
+  }
+},{
+  "_id": "14138",
+  "cz_category_id": "530",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.207Z"
+  }
+},{
+  "_id": "14137",
+  "cz_category_id": "530",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.209Z"
+  }
+},{
+  "_id": "13213",
+  "cz_category_id": "530",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.210Z"
+  }
+},{
+  "_id": "13212",
+  "cz_category_id": "530",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.212Z"
+  }
+},{
+  "_id": "13211",
+  "cz_category_id": "530",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.213Z"
+  }
+},{
+  "_id": "13210",
+  "cz_category_id": "530",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.215Z"
+  }
+},{
+  "_id": "13207",
+  "cz_category_id": "530",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.216Z"
+  }
+},{
+  "_id": "13199",
+  "cz_category_id": "530",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.218Z"
+  }
+},{
+  "_id": "13197",
+  "cz_category_id": "530",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.220Z"
+  }
+},{
+  "_id": "13195",
+  "cz_category_id": "530",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.221Z"
+  }
+},{
+  "_id": "13063",
+  "cz_category_id": "530",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.223Z"
+  }
+},{
+  "_id": "11340",
+  "cz_category_id": "530",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.224Z"
+  }
+},{
+  "_id": "13731",
+  "cz_category_id": "531",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.226Z"
+  }
+},{
+  "_id": "6029",
+  "cz_category_id": "531",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.227Z"
+  }
+},{
+  "_id": "16944",
+  "cz_category_id": "532",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.229Z"
+  }
+},{
+  "_id": "9577",
+  "cz_category_id": "532",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.230Z"
+  }
+},{
+  "_id": "9595",
+  "cz_category_id": "533",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.232Z"
+  }
+},{
+  "_id": "6031",
+  "cz_category_id": "533",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.233Z"
+  }
+},{
+  "_id": "13730",
+  "cz_category_id": "535",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.235Z"
+  }
+},{
+  "_id": "13725",
+  "cz_category_id": "535",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.237Z"
+  }
+},{
+  "_id": "13503",
+  "cz_category_id": "535",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.239Z"
+  }
+},{
+  "_id": "13214",
+  "cz_category_id": "535",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.240Z"
+  }
+},{
+  "_id": "11419",
+  "cz_category_id": "535",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.241Z"
+  }
+},{
+  "_id": "11418",
+  "cz_category_id": "535",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.243Z"
+  }
+},{
+  "_id": "11417",
+  "cz_category_id": "535",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.244Z"
+  }
+},{
+  "_id": "11338",
+  "cz_category_id": "535",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.245Z"
+  }
+},{
+  "_id": "10239",
+  "cz_category_id": "535",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.247Z"
+  }
+},{
+  "_id": "6027",
+  "cz_category_id": "535",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.248Z"
+  }
+},{
+  "_id": "11332",
+  "cz_category_id": "535",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.252Z"
+  }
+},{
+  "_id": "10923",
+  "cz_category_id": "535",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.253Z"
+  }
+},{
+  "_id": "10572",
+  "cz_category_id": "535",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.254Z"
+  }
+},{
+  "_id": "9907",
+  "cz_category_id": "535",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.256Z"
+  }
+},{
+  "_id": "17231",
+  "cz_category_id": "553",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.257Z"
+  }
+},{
+  "_id": "17182",
+  "cz_category_id": "553",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.259Z"
+  }
+},{
+  "_id": "15392",
+  "cz_category_id": "553",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.260Z"
+  }
+},{
+  "_id": "11404",
+  "cz_category_id": "553",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.262Z"
+  }
+},{
+  "_id": "11280",
+  "cz_category_id": "553",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.263Z"
+  }
+},{
+  "_id": "13936",
+  "cz_category_id": "320",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.265Z"
+  }
+},{
+  "_id": "13796",
+  "cz_category_id": "320",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.266Z"
+  }
+},{
+  "_id": "13738",
+  "cz_category_id": "320",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.271Z"
+  }
+},{
+  "_id": "13737",
+  "cz_category_id": "320",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.273Z"
+  }
+},{
+  "_id": "9910",
+  "cz_category_id": "320",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.274Z"
+  }
+},{
+  "_id": "14299",
+  "cz_category_id": "608",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.276Z"
+  }
+},{
+  "_id": "18991",
+  "cz_category_id": "190",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.278Z"
+  }
+},{
+  "_id": "18983",
+  "cz_category_id": "190",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.280Z"
+  }
+},{
+  "_id": "11272",
+  "cz_category_id": "169",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.281Z"
+  }
+},{
+  "_id": "6079",
+  "cz_category_id": "169",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.283Z"
+  }
+},{
+  "_id": "9902",
+  "cz_category_id": "85",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.284Z"
+  }
+},{
+  "_id": "25110",
+  "cz_category_id": "423",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.286Z"
+  }
+},{
+  "_id": "13162",
+  "cz_category_id": "74",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.287Z"
+  }
+},{
+  "_id": "13161",
+  "cz_category_id": "74",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.288Z"
+  }
+},{
+  "_id": "13160",
+  "cz_category_id": "74",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.290Z"
+  }
+},{
+  "_id": "13159",
+  "cz_category_id": "74",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.291Z"
+  }
+},{
+  "_id": "13158",
+  "cz_category_id": "74",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.292Z"
+  }
+},{
+  "_id": "13157",
+  "cz_category_id": "74",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.294Z"
+  }
+},{
+  "_id": "16945",
+  "cz_category_id": "392",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.295Z"
+  }
+},{
+  "_id": "10382",
+  "cz_category_id": "281",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.296Z"
+  }
+},{
+  "_id": "13889",
+  "cz_category_id": "286",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.300Z"
+  }
+},{
+  "_id": "13888",
+  "cz_category_id": "286",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.302Z"
+  }
+},{
+  "_id": "13887",
+  "cz_category_id": "286",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.304Z"
+  }
+},{
+  "_id": "13886",
+  "cz_category_id": "286",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.307Z"
+  }
+},{
+  "_id": "13890",
+  "cz_category_id": "287",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.310Z"
+  }
+},{
+  "_id": "13308",
+  "cz_category_id": "592",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.312Z"
+  }
+},{
+  "_id": "16972",
+  "cz_category_id": "578",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.314Z"
+  }
+},{
+  "_id": "16971",
+  "cz_category_id": "578",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.316Z"
+  }
+},{
+  "_id": "16970",
+  "cz_category_id": "578",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.318Z"
+  }
+},{
+  "_id": "13319",
+  "cz_category_id": "306",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.319Z"
+  }
+},{
+  "_id": "8693",
+  "cz_category_id": "99",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.321Z"
+  }
+},{
+  "_id": "8692",
+  "cz_category_id": "99",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.322Z"
+  }
+},{
+  "_id": "8691",
+  "cz_category_id": "99",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.324Z"
+  }
+},{
+  "_id": "8690",
+  "cz_category_id": "99",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.325Z"
+  }
+},{
+  "_id": "8689",
+  "cz_category_id": "99",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.327Z"
+  }
+},{
+  "_id": "6107",
+  "cz_category_id": "99",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.329Z"
+  }
+},{
+  "_id": "8724",
+  "cz_category_id": "100",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.330Z"
+  }
+},{
+  "_id": "8723",
+  "cz_category_id": "100",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.332Z"
+  }
+},{
+  "_id": "8722",
+  "cz_category_id": "100",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.334Z"
+  }
+},{
+  "_id": "8721",
+  "cz_category_id": "100",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.335Z"
+  }
+},{
+  "_id": "8720",
+  "cz_category_id": "100",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.337Z"
+  }
+},{
+  "_id": "8719",
+  "cz_category_id": "100",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.338Z"
+  }
+},{
+  "_id": "8688",
+  "cz_category_id": "100",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.340Z"
+  }
+},{
+  "_id": "6099",
+  "cz_category_id": "100",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.341Z"
+  }
+},{
+  "_id": "8572",
+  "cz_category_id": "478",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.343Z"
+  }
+},{
+  "_id": "13508",
+  "cz_category_id": "521",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.344Z"
+  }
+},{
+  "_id": "13708",
+  "cz_category_id": "223",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.346Z"
+  }
+},{
+  "_id": "13707",
+  "cz_category_id": "223",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.347Z"
+  }
+},{
+  "_id": "13702",
+  "cz_category_id": "223",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.349Z"
+  }
+},{
+  "_id": "13502",
+  "cz_category_id": "223",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.350Z"
+  }
+},{
+  "_id": "13501",
+  "cz_category_id": "223",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.352Z"
+  }
+},{
+  "_id": "13500",
+  "cz_category_id": "223",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.354Z"
+  }
+},{
+  "_id": "13479",
+  "cz_category_id": "223",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.355Z"
+  }
+},{
+  "_id": "13446",
+  "cz_category_id": "223",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.358Z"
+  }
+},{
+  "_id": "13413",
+  "cz_category_id": "223",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.359Z"
+  }
+},{
+  "_id": "13407",
+  "cz_category_id": "223",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.361Z"
+  }
+},{
+  "_id": "13403",
+  "cz_category_id": "223",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.362Z"
+  }
+},{
+  "_id": "13402",
+  "cz_category_id": "223",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.364Z"
+  }
+},{
+  "_id": "13395",
+  "cz_category_id": "223",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.366Z"
+  }
+},{
+  "_id": "13394",
+  "cz_category_id": "223",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.367Z"
+  }
+},{
+  "_id": "13393",
+  "cz_category_id": "223",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.369Z"
+  }
+},{
+  "_id": "11395",
+  "cz_category_id": "223",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.370Z"
+  }
+},{
+  "_id": "11394",
+  "cz_category_id": "223",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.372Z"
+  }
+},{
+  "_id": "11393",
+  "cz_category_id": "223",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.373Z"
+  }
+},{
+  "_id": "10206",
+  "cz_category_id": "223",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.375Z"
+  }
+},{
+  "_id": "9000",
+  "cz_category_id": "223",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.377Z"
+  }
+},{
+  "_id": "8999",
+  "cz_category_id": "223",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.378Z"
+  }
+},{
+  "_id": "8998",
+  "cz_category_id": "223",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.380Z"
+  }
+},{
+  "_id": "6036",
+  "cz_category_id": "223",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.382Z"
+  }
+},{
+  "_id": "16840",
+  "cz_category_id": "463",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.384Z"
+  }
+},{
+  "_id": "14301",
+  "cz_category_id": "609",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.386Z"
+  }
+},{
+  "_id": "13746",
+  "cz_category_id": "610",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.388Z"
+  }
+},{
+  "_id": "13745",
+  "cz_category_id": "610",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.390Z"
+  }
+},{
+  "_id": "13744",
+  "cz_category_id": "610",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.392Z"
+  }
+},{
+  "_id": "13743",
+  "cz_category_id": "610",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.393Z"
+  }
+},{
+  "_id": "13742",
+  "cz_category_id": "610",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.395Z"
+  }
+},{
+  "_id": "13741",
+  "cz_category_id": "610",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.397Z"
+  }
+},{
+  "_id": "13740",
+  "cz_category_id": "610",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.398Z"
+  }
+},{
+  "_id": "13739",
+  "cz_category_id": "610",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.400Z"
+  }
+},{
+  "_id": "11303",
+  "cz_category_id": "610",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.401Z"
+  }
+},{
+  "_id": "11302",
+  "cz_category_id": "610",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.403Z"
+  }
+},{
+  "_id": "11301",
+  "cz_category_id": "610",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.404Z"
+  }
+},{
+  "_id": "11300",
+  "cz_category_id": "610",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.406Z"
+  }
+},{
+  "_id": "11298",
+  "cz_category_id": "610",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.407Z"
+  }
+},{
+  "_id": "6069",
+  "cz_category_id": "610",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.409Z"
+  }
+},{
+  "_id": "11299",
+  "cz_category_id": "611",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.411Z"
+  }
+},{
+  "_id": "13061",
+  "cz_category_id": "612",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.412Z"
+  }
+},{
+  "_id": "13771",
+  "cz_category_id": "614",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.414Z"
+  }
+},{
+  "_id": "9901",
+  "cz_category_id": "603",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.415Z"
+  }
+},{
+  "_id": "11407",
+  "cz_category_id": "211",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.417Z"
+  }
+},{
+  "_id": "8958",
+  "cz_category_id": "211",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.419Z"
+  }
+},{
+  "_id": "8957",
+  "cz_category_id": "211",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.421Z"
+  }
+},{
+  "_id": "8956",
+  "cz_category_id": "211",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.423Z"
+  }
+},{
+  "_id": "8955",
+  "cz_category_id": "211",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.424Z"
+  }
+},{
+  "_id": "6051",
+  "cz_category_id": "211",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.426Z"
+  }
+},{
+  "_id": "9909",
+  "cz_category_id": "34",
+  "cz_category_level": 2,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.429Z"
+  }
+},{
+  "_id": "9908",
+  "cz_category_id": "34",
+  "cz_category_level": 2,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.430Z"
+  }
+},{
+  "_id": "9905",
+  "cz_category_id": "34",
+  "cz_category_level": 2,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.432Z"
+  }
+},{
+  "_id": "9904",
+  "cz_category_id": "34",
+  "cz_category_level": 2,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.433Z"
+  }
+},{
+  "_id": "9903",
+  "cz_category_id": "34",
+  "cz_category_level": 2,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.434Z"
+  }
+},{
+  "_id": "14305",
+  "cz_category_id": "34",
+  "cz_category_level": 2,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.436Z"
+  }
+},{
+  "_id": "14304",
+  "cz_category_id": "34",
+  "cz_category_level": 2,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.437Z"
+  }
+},{
+  "_id": "14287",
+  "cz_category_id": "34",
+  "cz_category_level": 2,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.439Z"
+  }
+},{
+  "_id": "6062",
+  "cz_category_id": "34",
+  "cz_category_level": 2,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.440Z"
+  }
+},{
+  "_id": "6061",
+  "cz_category_id": "34",
+  "cz_category_level": 2,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.441Z"
+  }
+},{
+  "_id": "8757",
+  "cz_category_id": "424",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.443Z"
+  }
+},{
+  "_id": "8755",
+  "cz_category_id": "426",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.444Z"
+  }
+},{
+  "_id": "6065",
+  "cz_category_id": "606",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.446Z"
+  }
+},{
+  "_id": "13178",
+  "cz_category_id": "101",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.447Z"
+  }
+},{
+  "_id": "13177",
+  "cz_category_id": "101",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.449Z"
+  }
+},{
+  "_id": "13176",
+  "cz_category_id": "101",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.451Z"
+  }
+},{
+  "_id": "8727",
+  "cz_category_id": "101",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.452Z"
+  }
+},{
+  "_id": "8726",
+  "cz_category_id": "101",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.454Z"
+  }
+},{
+  "_id": "8725",
+  "cz_category_id": "101",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.455Z"
+  }
+},{
+  "_id": "6098",
+  "cz_category_id": "101",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.457Z"
+  }
+},{
+  "_id": "13905",
+  "cz_category_id": "130",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.458Z"
+  }
+},{
+  "_id": "13904",
+  "cz_category_id": "130",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.460Z"
+  }
+},{
+  "_id": "13416",
+  "cz_category_id": "130",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.461Z"
+  }
+},{
+  "_id": "13112",
+  "cz_category_id": "130",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.462Z"
+  }
+},{
+  "_id": "13111",
+  "cz_category_id": "130",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.464Z"
+  }
+},{
+  "_id": "13109",
+  "cz_category_id": "130",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.465Z"
+  }
+},{
+  "_id": "13108",
+  "cz_category_id": "130",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.467Z"
+  }
+},{
+  "_id": "13107",
+  "cz_category_id": "130",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.468Z"
+  }
+},{
+  "_id": "13106",
+  "cz_category_id": "130",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.470Z"
+  }
+},{
+  "_id": "13779",
+  "cz_category_id": "669",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.471Z"
+  }
+},{
+  "_id": "16962",
+  "cz_category_id": "653",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.473Z"
+  }
+},{
+  "_id": "14306",
+  "cz_category_id": "607",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.474Z"
+  }
+},{
+  "_id": "13907",
+  "cz_category_id": "584",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.476Z"
+  }
+},{
+  "_id": "13906",
+  "cz_category_id": "584",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.477Z"
+  }
+},{
+  "_id": "13329",
+  "cz_category_id": "584",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.479Z"
+  }
+},{
+  "_id": "14162",
+  "cz_category_id": "655",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.481Z"
+  }
+},{
+  "_id": "16963",
+  "cz_category_id": "371",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.483Z"
+  }
+},{
+  "_id": "16966",
+  "cz_category_id": "372",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.484Z"
+  }
+},{
+  "_id": "9687",
+  "cz_category_id": "372",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.485Z"
+  }
+},{
+  "_id": "17245",
+  "cz_category_id": "360",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.487Z"
+  }
+},{
+  "_id": "17244",
+  "cz_category_id": "360",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.488Z"
+  }
+},{
+  "_id": "17242",
+  "cz_category_id": "360",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.490Z"
+  }
+},{
+  "_id": "17108",
+  "cz_category_id": "360",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.491Z"
+  }
+},{
+  "_id": "8543",
+  "cz_category_id": "477",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.492Z"
+  }
+},{
+  "_id": "10362",
+  "cz_category_id": "503",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.494Z"
+  }
+},{
+  "_id": "13304",
+  "cz_category_id": "310",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.496Z"
+  }
+},{
+  "_id": "8799",
+  "cz_category_id": "466",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.497Z"
+  }
+},{
+  "_id": "8802",
+  "cz_category_id": "467",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.498Z"
+  }
+},{
+  "_id": "16841",
+  "cz_category_id": "464",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.500Z"
+  }
+},{
+  "_id": "8712",
+  "cz_category_id": "96",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.501Z"
+  }
+},{
+  "_id": "16958",
+  "cz_category_id": "383",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.502Z"
+  }
+},{
+  "_id": "16957",
+  "cz_category_id": "383",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.504Z"
+  }
+},{
+  "_id": "16956",
+  "cz_category_id": "383",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.505Z"
+  }
+},{
+  "_id": "9683",
+  "cz_category_id": "383",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.507Z"
+  }
+},{
+  "_id": "13417",
+  "cz_category_id": "94",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.508Z"
+  }
+},{
+  "_id": "16687",
+  "cz_category_id": "447",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.510Z"
+  }
+},{
+  "_id": "13097",
+  "cz_category_id": "127",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.511Z"
+  }
+},{
+  "_id": "16953",
+  "cz_category_id": "391",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.513Z"
+  }
+},{
+  "_id": "16950",
+  "cz_category_id": "390",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.514Z"
+  }
+},{
+  "_id": "14167",
+  "cz_category_id": "659",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.516Z"
+  }
+},{
+  "_id": "16967",
+  "cz_category_id": "661",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.518Z"
+  }
+},{
+  "_id": "16960",
+  "cz_category_id": "661",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.520Z"
+  }
+},{
+  "_id": "16959",
+  "cz_category_id": "661",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.521Z"
+  }
+},{
+  "_id": "16949",
+  "cz_category_id": "661",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.523Z"
+  }
+},{
+  "_id": "9677",
+  "cz_category_id": "661",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.524Z"
+  }
+},{
+  "_id": "8891",
+  "cz_category_id": "544",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.525Z"
+  }
+},{
+  "_id": "14293",
+  "cz_category_id": "596",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.527Z"
+  }
+},{
+  "_id": "8922",
+  "cz_category_id": "596",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.528Z"
+  }
+},{
+  "_id": "9691",
+  "cz_category_id": "665",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.530Z"
+  }
+},{
+  "_id": "9681",
+  "cz_category_id": "665",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.531Z"
+  }
+},{
+  "_id": "13497",
+  "cz_category_id": "591",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.533Z"
+  }
+},{
+  "_id": "13307",
+  "cz_category_id": "591",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.534Z"
+  }
+},{
+  "_id": "8592",
+  "cz_category_id": "278",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.535Z"
+  }
+},{
+  "_id": "8591",
+  "cz_category_id": "278",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.537Z"
+  }
+},{
+  "_id": "8590",
+  "cz_category_id": "278",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.538Z"
+  }
+},{
+  "_id": "13445",
+  "cz_category_id": "490",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.540Z"
+  }
+},{
+  "_id": "13037",
+  "cz_category_id": "104",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.541Z"
+  }
+},{
+  "_id": "13588",
+  "cz_category_id": "491",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.543Z"
+  }
+},{
+  "_id": "13447",
+  "cz_category_id": "489",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.544Z"
+  }
+},{
+  "_id": "13043",
+  "cz_category_id": "105",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.546Z"
+  }
+},{
+  "_id": "13752",
+  "cz_category_id": "545",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.547Z"
+  }
+},{
+  "_id": "13757",
+  "cz_category_id": "546",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.548Z"
+  }
+},{
+  "_id": "8916",
+  "cz_category_id": "546",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.550Z"
+  }
+},{
+  "_id": "13045",
+  "cz_category_id": "107",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.551Z"
+  }
+},{
+  "_id": "13792",
+  "cz_category_id": "319",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.552Z"
+  }
+},{
+  "_id": "13736",
+  "cz_category_id": "319",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.554Z"
+  }
+},{
+  "_id": "13735",
+  "cz_category_id": "319",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.555Z"
+  }
+},{
+  "_id": "13734",
+  "cz_category_id": "319",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.556Z"
+  }
+},{
+  "_id": "8905",
+  "cz_category_id": "319",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.558Z"
+  }
+},{
+  "_id": "8904",
+  "cz_category_id": "319",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.559Z"
+  }
+},{
+  "_id": "8903",
+  "cz_category_id": "319",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.560Z"
+  }
+},{
+  "_id": "8902",
+  "cz_category_id": "319",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.561Z"
+  }
+},{
+  "_id": "8901",
+  "cz_category_id": "319",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.562Z"
+  }
+},{
+  "_id": "6077",
+  "cz_category_id": "319",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.564Z"
+  }
+},{
+  "_id": "13419",
+  "cz_category_id": "109",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.565Z"
+  }
+},{
+  "_id": "13054",
+  "cz_category_id": "109",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.566Z"
+  }
+},{
+  "_id": "13781",
+  "cz_category_id": "184",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.568Z"
+  }
+},{
+  "_id": "13383",
+  "cz_category_id": "102",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.569Z"
+  }
+},{
+  "_id": "11372",
+  "cz_category_id": "102",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.570Z"
+  }
+},{
+  "_id": "11371",
+  "cz_category_id": "102",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.572Z"
+  }
+},{
+  "_id": "11370",
+  "cz_category_id": "102",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.573Z"
+  }
+},{
+  "_id": "6102",
+  "cz_category_id": "102",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.574Z"
+  }
+},{
+  "_id": "14302",
+  "cz_category_id": "136",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.575Z"
+  }
+},{
+  "_id": "13772",
+  "cz_category_id": "436",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.576Z"
+  }
+},{
+  "_id": "9917",
+  "cz_category_id": "137",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.578Z"
+  }
+},{
+  "_id": "8594",
+  "cz_category_id": "277",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.579Z"
+  }
+},{
+  "_id": "8551",
+  "cz_category_id": "268",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.580Z"
+  }
+},{
+  "_id": "8545",
+  "cz_category_id": "268",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.582Z"
+  }
+},{
+  "_id": "13420",
+  "cz_category_id": "118",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.583Z"
+  }
+},{
+  "_id": "13064",
+  "cz_category_id": "118",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.585Z"
+  }
+},{
+  "_id": "13059",
+  "cz_category_id": "118",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.587Z"
+  }
+},{
+  "_id": "13051",
+  "cz_category_id": "118",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.589Z"
+  }
+},{
+  "_id": "13049",
+  "cz_category_id": "118",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.591Z"
+  }
+},{
+  "_id": "13091",
+  "cz_category_id": "119",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.593Z"
+  }
+},{
+  "_id": "13088",
+  "cz_category_id": "119",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.596Z"
+  }
+},{
+  "_id": "13087",
+  "cz_category_id": "119",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.598Z"
+  }
+},{
+  "_id": "13066",
+  "cz_category_id": "119",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.601Z"
+  }
+},{
+  "_id": "24563",
+  "cz_category_id": "156",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.604Z"
+  }
+},{
+  "_id": "24562",
+  "cz_category_id": "156",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.606Z"
+  }
+},{
+  "_id": "24561",
+  "cz_category_id": "156",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.608Z"
+  }
+},{
+  "_id": "24560",
+  "cz_category_id": "156",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.609Z"
+  }
+},{
+  "_id": "23416",
+  "cz_category_id": "156",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.610Z"
+  }
+},{
+  "_id": "23412",
+  "cz_category_id": "156",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.612Z"
+  }
+},{
+  "_id": "11310",
+  "cz_category_id": "164",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.613Z"
+  }
+},{
+  "_id": "13587",
+  "cz_category_id": "493",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.614Z"
+  }
+},{
+  "_id": "10354",
+  "cz_category_id": "493",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.616Z"
+  }
+},{
+  "_id": "8593",
+  "cz_category_id": "500",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.617Z"
+  }
+},{
+  "_id": "9674",
+  "cz_category_id": "494",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.619Z"
+  }
+},{
+  "_id": "10373",
+  "cz_category_id": "475",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.622Z"
+  }
+},{
+  "_id": "8554",
+  "cz_category_id": "475",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.623Z"
+  }
+},{
+  "_id": "8569",
+  "cz_category_id": "482",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.625Z"
+  }
+},{
+  "_id": "10383",
+  "cz_category_id": "501",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.626Z"
+  }
+},{
+  "_id": "13325",
+  "cz_category_id": "315",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.628Z"
+  }
+},{
+  "_id": "10574",
+  "cz_category_id": "220",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.629Z"
+  }
+},{
+  "_id": "8604",
+  "cz_category_id": "220",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.630Z"
+  }
+},{
+  "_id": "8603",
+  "cz_category_id": "220",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.632Z"
+  }
+},{
+  "_id": "8602",
+  "cz_category_id": "220",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.634Z"
+  }
+},{
+  "_id": "8601",
+  "cz_category_id": "220",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.635Z"
+  }
+},{
+  "_id": "8600",
+  "cz_category_id": "220",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.636Z"
+  }
+},{
+  "_id": "6001",
+  "cz_category_id": "220",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.638Z"
+  }
+},{
+  "_id": "8542",
+  "cz_category_id": "266",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.639Z"
+  }
+},{
+  "_id": "8573",
+  "cz_category_id": "476",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.641Z"
+  }
+},{
+  "_id": "8541",
+  "cz_category_id": "476",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.643Z"
+  }
+},{
+  "_id": "8915",
+  "cz_category_id": "602",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.644Z"
+  }
+},{
+  "_id": "17261",
+  "cz_category_id": "551",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.647Z"
+  }
+},{
+  "_id": "17260",
+  "cz_category_id": "551",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.649Z"
+  }
+},{
+  "_id": "17259",
+  "cz_category_id": "551",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.650Z"
+  }
+},{
+  "_id": "17241",
+  "cz_category_id": "551",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.652Z"
+  }
+},{
+  "_id": "14294",
+  "cz_category_id": "551",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.653Z"
+  }
+},{
+  "_id": "14291",
+  "cz_category_id": "551",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.655Z"
+  }
+},{
+  "_id": "8894",
+  "cz_category_id": "551",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.656Z"
+  }
+},{
+  "_id": "8888",
+  "cz_category_id": "551",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.658Z"
+  }
+},{
+  "_id": "6066",
+  "cz_category_id": "551",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.659Z"
+  }
+},{
+  "_id": "11347",
+  "cz_category_id": "505",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.661Z"
+  }
+},{
+  "_id": "10183",
+  "cz_category_id": "505",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.662Z"
+  }
+},{
+  "_id": "14289",
+  "cz_category_id": "540",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.664Z"
+  }
+},{
+  "_id": "8914",
+  "cz_category_id": "540",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.665Z"
+  }
+},{
+  "_id": "13753",
+  "cz_category_id": "542",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.667Z"
+  }
+},{
+  "_id": "13758",
+  "cz_category_id": "543",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.668Z"
+  }
+},{
+  "_id": "11384",
+  "cz_category_id": "528",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.670Z"
+  }
+},{
+  "_id": "11383",
+  "cz_category_id": "528",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.671Z"
+  }
+},{
+  "_id": "11382",
+  "cz_category_id": "528",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.674Z"
+  }
+},{
+  "_id": "11381",
+  "cz_category_id": "528",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.676Z"
+  }
+},{
+  "_id": "11339",
+  "cz_category_id": "528",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.678Z"
+  }
+},{
+  "_id": "11337",
+  "cz_category_id": "528",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.679Z"
+  }
+},{
+  "_id": "11336",
+  "cz_category_id": "528",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.681Z"
+  }
+},{
+  "_id": "9571",
+  "cz_category_id": "528",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.682Z"
+  }
+},{
+  "_id": "6124",
+  "cz_category_id": "528",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.684Z"
+  }
+},{
+  "_id": "8586",
+  "cz_category_id": "209",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.686Z"
+  }
+},{
+  "_id": "11377",
+  "cz_category_id": "202",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.687Z"
+  }
+},{
+  "_id": "10177",
+  "cz_category_id": "202",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.689Z"
+  }
+},{
+  "_id": "10176",
+  "cz_category_id": "202",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.690Z"
+  }
+},{
+  "_id": "14401",
+  "cz_category_id": "158",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.692Z"
+  }
+},{
+  "_id": "14400",
+  "cz_category_id": "158",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.697Z"
+  }
+},{
+  "_id": "9679",
+  "cz_category_id": "380",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.698Z"
+  }
+},{
+  "_id": "14157",
+  "cz_category_id": "373",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.703Z"
+  }
+},{
+  "_id": "14160",
+  "cz_category_id": "375",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.709Z"
+  }
+},{
+  "_id": "11346",
+  "cz_category_id": "215",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.712Z"
+  }
+},{
+  "_id": "11345",
+  "cz_category_id": "215",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.714Z"
+  }
+},{
+  "_id": "11344",
+  "cz_category_id": "215",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.715Z"
+  }
+},{
+  "_id": "11343",
+  "cz_category_id": "215",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.717Z"
+  }
+},{
+  "_id": "11342",
+  "cz_category_id": "215",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.719Z"
+  }
+},{
+  "_id": "11341",
+  "cz_category_id": "215",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.721Z"
+  }
+},{
+  "_id": "9573",
+  "cz_category_id": "215",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.723Z"
+  }
+},{
+  "_id": "10035",
+  "cz_category_id": "207",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.725Z"
+  }
+},{
+  "_id": "16839",
+  "cz_category_id": "208",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.726Z"
+  }
+},{
+  "_id": "15362",
+  "cz_category_id": "216",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.728Z"
+  }
+},{
+  "_id": "15361",
+  "cz_category_id": "216",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.730Z"
+  }
+},{
+  "_id": "15360",
+  "cz_category_id": "216",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.731Z"
+  }
+},{
+  "_id": "15359",
+  "cz_category_id": "216",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.732Z"
+  }
+},{
+  "_id": "15140",
+  "cz_category_id": "216",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.734Z"
+  }
+},{
+  "_id": "14030",
+  "cz_category_id": "21",
+  "cz_category_level": 2,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.735Z"
+  }
+},{
+  "_id": "19712",
+  "cz_category_id": "21",
+  "cz_category_level": 2,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.737Z"
+  }
+},{
+  "_id": "20209",
+  "cz_category_id": "21",
+  "cz_category_level": 2,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.738Z"
+  }
+},{
+  "_id": "20211",
+  "cz_category_id": "21",
+  "cz_category_level": 2,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.740Z"
+  }
+},{
+  "_id": "20210",
+  "cz_category_id": "21",
+  "cz_category_level": 2,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.741Z"
+  }
+},{
+  "_id": "14027",
+  "cz_category_id": "21",
+  "cz_category_level": 2,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.743Z"
+  }
+},{
+  "_id": "8917",
+  "cz_category_id": "133",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.744Z"
+  }
+},{
+  "_id": "16955",
+  "cz_category_id": "387",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.746Z"
+  }
+},{
+  "_id": "16952",
+  "cz_category_id": "386",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.748Z"
+  }
+},{
+  "_id": "14288",
+  "cz_category_id": "134",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.749Z"
+  }
+},{
+  "_id": "14286",
+  "cz_category_id": "134",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.751Z"
+  }
+},{
+  "_id": "8921",
+  "cz_category_id": "135",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.754Z"
+  }
+},{
+  "_id": "16965",
+  "cz_category_id": "370",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.756Z"
+  }
+},{
+  "_id": "16964",
+  "cz_category_id": "370",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.758Z"
+  }
+},{
+  "_id": "14136",
+  "cz_category_id": "370",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.760Z"
+  }
+},{
+  "_id": "14135",
+  "cz_category_id": "370",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.762Z"
+  }
+},{
+  "_id": "14134",
+  "cz_category_id": "370",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.764Z"
+  }
+},{
+  "_id": "14133",
+  "cz_category_id": "370",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.765Z"
+  }
+},{
+  "_id": "13297",
+  "cz_category_id": "575",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.767Z"
+  }
+},{
+  "_id": "13306",
+  "cz_category_id": "579",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.768Z"
+  }
+},{
+  "_id": "19034",
+  "cz_category_id": "326",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.770Z"
+  }
+},{
+  "_id": "14298",
+  "cz_category_id": "326",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.774Z"
+  }
+},{
+  "_id": "14297",
+  "cz_category_id": "326",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.776Z"
+  }
+},{
+  "_id": "10364",
+  "cz_category_id": "326",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.777Z"
+  }
+},{
+  "_id": "10363",
+  "cz_category_id": "326",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.779Z"
+  }
+},{
+  "_id": "10361",
+  "cz_category_id": "326",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.781Z"
+  }
+},{
+  "_id": "8577",
+  "cz_category_id": "326",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.782Z"
+  }
+},{
+  "_id": "6135",
+  "cz_category_id": "326",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.784Z"
+  }
+},{
+  "_id": "19280",
+  "cz_category_id": "559",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.787Z"
+  }
+},{
+  "_id": "13787",
+  "cz_category_id": "559",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.788Z"
+  }
+},{
+  "_id": "8900",
+  "cz_category_id": "559",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.789Z"
+  }
+},{
+  "_id": "13318",
+  "cz_category_id": "593",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.791Z"
+  }
+},{
+  "_id": "13784",
+  "cz_category_id": "565",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.792Z"
+  }
+},{
+  "_id": "13777",
+  "cz_category_id": "565",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.793Z"
+  }
+},{
+  "_id": "23415",
+  "cz_category_id": "157",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.795Z"
+  }
+},{
+  "_id": "11845",
+  "cz_category_id": "198",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.796Z"
+  }
+},{
+  "_id": "19275",
+  "cz_category_id": "196",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.798Z"
+  }
+},{
+  "_id": "19274",
+  "cz_category_id": "196",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.799Z"
+  }
+},{
+  "_id": "19273",
+  "cz_category_id": "196",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.801Z"
+  }
+},{
+  "_id": "19268",
+  "cz_category_id": "196",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.802Z"
+  }
+},{
+  "_id": "13426",
+  "cz_category_id": "196",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.803Z"
+  }
+},{
+  "_id": "10263",
+  "cz_category_id": "196",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.804Z"
+  }
+},{
+  "_id": "11416",
+  "cz_category_id": "221",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.806Z"
+  }
+},{
+  "_id": "11380",
+  "cz_category_id": "221",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.807Z"
+  }
+},{
+  "_id": "11379",
+  "cz_category_id": "221",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.809Z"
+  }
+},{
+  "_id": "11378",
+  "cz_category_id": "221",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.810Z"
+  }
+},{
+  "_id": "10921",
+  "cz_category_id": "221",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.812Z"
+  }
+},{
+  "_id": "8625",
+  "cz_category_id": "221",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.813Z"
+  }
+},{
+  "_id": "8624",
+  "cz_category_id": "221",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.814Z"
+  }
+},{
+  "_id": "8623",
+  "cz_category_id": "221",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.816Z"
+  }
+},{
+  "_id": "6123",
+  "cz_category_id": "221",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.817Z"
+  }
+},{
+  "_id": "6122",
+  "cz_category_id": "221",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.818Z"
+  }
+},{
+  "_id": "11387",
+  "cz_category_id": "222",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.820Z"
+  }
+},{
+  "_id": "10573",
+  "cz_category_id": "222",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.821Z"
+  }
+},{
+  "_id": "8622",
+  "cz_category_id": "222",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.822Z"
+  }
+},{
+  "_id": "8621",
+  "cz_category_id": "222",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.823Z"
+  }
+},{
+  "_id": "9042",
+  "cz_category_id": "524",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.825Z"
+  }
+},{
+  "_id": "9041",
+  "cz_category_id": "524",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.826Z"
+  }
+},{
+  "_id": "9040",
+  "cz_category_id": "524",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.827Z"
+  }
+},{
+  "_id": "16847",
+  "cz_category_id": "237",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.828Z"
+  }
+},{
+  "_id": "16832",
+  "cz_category_id": "237",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.830Z"
+  }
+},{
+  "_id": "16831",
+  "cz_category_id": "237",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.831Z"
+  }
+},{
+  "_id": "16830",
+  "cz_category_id": "237",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.832Z"
+  }
+},{
+  "_id": "16837",
+  "cz_category_id": "238",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.834Z"
+  }
+},{
+  "_id": "9303",
+  "cz_category_id": "238",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.836Z"
+  }
+},{
+  "_id": "8851",
+  "cz_category_id": "252",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.838Z"
+  }
+},{
+  "_id": "13105",
+  "cz_category_id": "131",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.839Z"
+  }
+},{
+  "_id": "11375",
+  "cz_category_id": "441",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.841Z"
+  }
+},{
+  "_id": "11374",
+  "cz_category_id": "441",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.843Z"
+  }
+},{
+  "_id": "11373",
+  "cz_category_id": "441",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.845Z"
+  }
+},{
+  "_id": "16928",
+  "cz_category_id": "364",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.847Z"
+  }
+},{
+  "_id": "16930",
+  "cz_category_id": "365",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.848Z"
+  }
+},{
+  "_id": "16881",
+  "cz_category_id": "365",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.850Z"
+  }
+},{
+  "_id": "16880",
+  "cz_category_id": "365",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.851Z"
+  }
+},{
+  "_id": "13170",
+  "cz_category_id": "403",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.853Z"
+  }
+},{
+  "_id": "13392",
+  "cz_category_id": "554",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.854Z"
+  }
+},{
+  "_id": "6074",
+  "cz_category_id": "554",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.855Z"
+  }
+},{
+  "_id": "13801",
+  "cz_category_id": "554",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.857Z"
+  }
+},{
+  "_id": "11288",
+  "cz_category_id": "554",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.859Z"
+  }
+},{
+  "_id": "11283",
+  "cz_category_id": "554",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.860Z"
+  }
+},{
+  "_id": "13761",
+  "cz_category_id": "556",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.862Z"
+  }
+},{
+  "_id": "13275",
+  "cz_category_id": "556",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.864Z"
+  }
+},{
+  "_id": "8898",
+  "cz_category_id": "556",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.865Z"
+  }
+},{
+  "_id": "13786",
+  "cz_category_id": "557",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.867Z"
+  }
+},{
+  "_id": "17252",
+  "cz_category_id": "183",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.868Z"
+  }
+},{
+  "_id": "17251",
+  "cz_category_id": "183",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.869Z"
+  }
+},{
+  "_id": "13769",
+  "cz_category_id": "183",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.871Z"
+  }
+},{
+  "_id": "13295",
+  "cz_category_id": "304",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.872Z"
+  }
+},{
+  "_id": "13732",
+  "cz_category_id": "515",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.873Z"
+  }
+},{
+  "_id": "15024",
+  "cz_category_id": "511",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.877Z"
+  }
+},{
+  "_id": "11809",
+  "cz_category_id": "511",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.879Z"
+  }
+},{
+  "_id": "11334",
+  "cz_category_id": "511",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.880Z"
+  }
+},{
+  "_id": "11333",
+  "cz_category_id": "511",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.881Z"
+  }
+},{
+  "_id": "8954",
+  "cz_category_id": "511",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.883Z"
+  }
+},{
+  "_id": "13764",
+  "cz_category_id": "167",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.884Z"
+  }
+},{
+  "_id": "13770",
+  "cz_category_id": "185",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.886Z"
+  }
+},{
+  "_id": "13759",
+  "cz_category_id": "185",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.888Z"
+  }
+},{
+  "_id": "13754",
+  "cz_category_id": "185",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.889Z"
+  }
+},{
+  "_id": "11270",
+  "cz_category_id": "168",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.891Z"
+  }
+},{
+  "_id": "13782",
+  "cz_category_id": "166",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.893Z"
+  }
+},{
+  "_id": "13762",
+  "cz_category_id": "170",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.894Z"
+  }
+},{
+  "_id": "11277",
+  "cz_category_id": "170",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.896Z"
+  }
+},{
+  "_id": "11276",
+  "cz_category_id": "170",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.898Z"
+  }
+},{
+  "_id": "11271",
+  "cz_category_id": "170",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.899Z"
+  }
+},{
+  "_id": "8909",
+  "cz_category_id": "170",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.901Z"
+  }
+},{
+  "_id": "6075",
+  "cz_category_id": "170",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.902Z"
+  }
+},{
+  "_id": "19032",
+  "cz_category_id": "232",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.903Z"
+  }
+},{
+  "_id": "11274",
+  "cz_category_id": "171",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.905Z"
+  }
+},{
+  "_id": "13797",
+  "cz_category_id": "172",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.906Z"
+  }
+},{
+  "_id": "11292",
+  "cz_category_id": "172",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.908Z"
+  }
+},{
+  "_id": "11291",
+  "cz_category_id": "172",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.910Z"
+  }
+},{
+  "_id": "11290",
+  "cz_category_id": "172",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.912Z"
+  }
+},{
+  "_id": "11289",
+  "cz_category_id": "172",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.914Z"
+  }
+},{
+  "_id": "8907",
+  "cz_category_id": "172",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.916Z"
+  }
+},{
+  "_id": "8906",
+  "cz_category_id": "172",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.917Z"
+  }
+},{
+  "_id": "6076",
+  "cz_category_id": "172",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.919Z"
+  }
+},{
+  "_id": "13773",
+  "cz_category_id": "175",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.922Z"
+  }
+},{
+  "_id": "13099",
+  "cz_category_id": "125",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.924Z"
+  }
+},{
+  "_id": "6028",
+  "cz_category_id": "274",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.926Z"
+  }
+},{
+  "_id": "8570",
+  "cz_category_id": "275",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.928Z"
+  }
+},{
+  "_id": "13908",
+  "cz_category_id": "311",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.930Z"
+  }
+},{
+  "_id": "13461",
+  "cz_category_id": "311",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.932Z"
+  }
+},{
+  "_id": "13305",
+  "cz_category_id": "311",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.934Z"
+  }
+},{
+  "_id": "13302",
+  "cz_category_id": "311",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.935Z"
+  }
+},{
+  "_id": "17052",
+  "cz_category_id": "311",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.937Z"
+  }
+},{
+  "_id": "10034",
+  "cz_category_id": "226",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.940Z"
+  }
+},{
+  "_id": "10033",
+  "cz_category_id": "226",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.942Z"
+  }
+},{
+  "_id": "19039",
+  "cz_category_id": "227",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.944Z"
+  }
+},{
+  "_id": "8803",
+  "cz_category_id": "227",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.946Z"
+  }
+},{
+  "_id": "8801",
+  "cz_category_id": "227",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.948Z"
+  }
+},{
+  "_id": "16817",
+  "cz_category_id": "233",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.950Z"
+  }
+},{
+  "_id": "16816",
+  "cz_category_id": "233",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.952Z"
+  }
+},{
+  "_id": "16815",
+  "cz_category_id": "233",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.954Z"
+  }
+},{
+  "_id": "16814",
+  "cz_category_id": "233",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.956Z"
+  }
+},{
+  "_id": "16786",
+  "cz_category_id": "233",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.958Z"
+  }
+},{
+  "_id": "16785",
+  "cz_category_id": "233",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.959Z"
+  }
+},{
+  "_id": "16784",
+  "cz_category_id": "233",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.961Z"
+  }
+},{
+  "_id": "16783",
+  "cz_category_id": "233",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.963Z"
+  }
+},{
+  "_id": "16776",
+  "cz_category_id": "233",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.965Z"
+  }
+},{
+  "_id": "16773",
+  "cz_category_id": "233",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.967Z"
+  }
+},{
+  "_id": "16845",
+  "cz_category_id": "234",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.968Z"
+  }
+},{
+  "_id": "16843",
+  "cz_category_id": "234",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.970Z"
+  }
+},{
+  "_id": "19031",
+  "cz_category_id": "230",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.971Z"
+  }
+},{
+  "_id": "19030",
+  "cz_category_id": "230",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.972Z"
+  }
+},{
+  "_id": "19024",
+  "cz_category_id": "230",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.974Z"
+  }
+},{
+  "_id": "19023",
+  "cz_category_id": "230",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.975Z"
+  }
+},{
+  "_id": "10371",
+  "cz_category_id": "484",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.977Z"
+  }
+},{
+  "_id": "13423",
+  "cz_category_id": "423",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.982Z"
+  }
+},{
+  "_id": "13226",
+  "cz_category_id": "423",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.983Z"
+  }
+},{
+  "_id": "13166",
+  "cz_category_id": "423",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.985Z"
+  }
+},{
+  "_id": "13165",
+  "cz_category_id": "423",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.987Z"
+  }
+},{
+  "_id": "13164",
+  "cz_category_id": "423",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.989Z"
+  }
+},{
+  "_id": "13163",
+  "cz_category_id": "423",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.990Z"
+  }
+},{
+  "_id": "9916",
+  "cz_category_id": "87",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.991Z"
+  }
+},{
+  "_id": "11365",
+  "cz_category_id": "214",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.993Z"
+  }
+},{
+  "_id": "11364",
+  "cz_category_id": "214",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.994Z"
+  }
+},{
+  "_id": "11363",
+  "cz_category_id": "214",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.995Z"
+  }
+},{
+  "_id": "11362",
+  "cz_category_id": "214",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.996Z"
+  }
+},{
+  "_id": "11361",
+  "cz_category_id": "214",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.998Z"
+  }
+},{
+  "_id": "11360",
+  "cz_category_id": "214",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:41.999Z"
+  }
+},{
+  "_id": "11359",
+  "cz_category_id": "214",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42Z"
+  }
+},{
+  "_id": "11358",
+  "cz_category_id": "214",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.001Z"
+  }
+},{
+  "_id": "11357",
+  "cz_category_id": "214",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.002Z"
+  }
+},{
+  "_id": "11356",
+  "cz_category_id": "214",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.004Z"
+  }
+},{
+  "_id": "11355",
+  "cz_category_id": "214",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.005Z"
+  }
+},{
+  "_id": "11354",
+  "cz_category_id": "214",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.006Z"
+  }
+},{
+  "_id": "11353",
+  "cz_category_id": "214",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.007Z"
+  }
+},{
+  "_id": "11352",
+  "cz_category_id": "214",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.008Z"
+  }
+},{
+  "_id": "11351",
+  "cz_category_id": "214",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.010Z"
+  }
+},{
+  "_id": "6047",
+  "cz_category_id": "214",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.011Z"
+  }
+},{
+  "_id": "6046",
+  "cz_category_id": "214",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.012Z"
+  }
+},{
+  "_id": "6044",
+  "cz_category_id": "214",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.013Z"
+  }
+},{
+  "_id": "6043",
+  "cz_category_id": "214",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.015Z"
+  }
+},{
+  "_id": "6042",
+  "cz_category_id": "214",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.016Z"
+  }
+},{
+  "_id": "14303",
+  "cz_category_id": "88",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.018Z"
+  }
+},{
+  "_id": "13123",
+  "cz_category_id": "90",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.019Z"
+  }
+},{
+  "_id": "13215",
+  "cz_category_id": "80",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.021Z"
+  }
+},{
+  "_id": "13124",
+  "cz_category_id": "93",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.022Z"
+  }
+},{
+  "_id": "8568",
+  "cz_category_id": "483",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.023Z"
+  }
+},{
+  "_id": "16842",
+  "cz_category_id": "470",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.025Z"
+  }
+},{
+  "_id": "16838",
+  "cz_category_id": "470",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.026Z"
+  }
+},{
+  "_id": "16780",
+  "cz_category_id": "470",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.027Z"
+  }
+},{
+  "_id": "6086",
+  "cz_category_id": "470",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.029Z"
+  }
+},{
+  "_id": "10369",
+  "cz_category_id": "485",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.030Z"
+  }
+},{
+  "_id": "6136",
+  "cz_category_id": "485",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.031Z"
+  }
+},{
+  "_id": "13175",
+  "cz_category_id": "103",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.033Z"
+  }
+},{
+  "_id": "13174",
+  "cz_category_id": "103",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.034Z"
+  }
+},{
+  "_id": "8729",
+  "cz_category_id": "103",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.035Z"
+  }
+},{
+  "_id": "8708",
+  "cz_category_id": "103",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.036Z"
+  }
+},{
+  "_id": "17265",
+  "cz_category_id": "362",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.038Z"
+  }
+},{
+  "_id": "17180",
+  "cz_category_id": "362",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.039Z"
+  }
+},{
+  "_id": "8575",
+  "cz_category_id": "325",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.040Z"
+  }
+},{
+  "_id": "17256",
+  "cz_category_id": "363",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.042Z"
+  }
+},{
+  "_id": "17249",
+  "cz_category_id": "363",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.043Z"
+  }
+},{
+  "_id": "17248",
+  "cz_category_id": "363",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.044Z"
+  }
+},{
+  "_id": "17247",
+  "cz_category_id": "363",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.046Z"
+  }
+},{
+  "_id": "17246",
+  "cz_category_id": "363",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.047Z"
+  }
+},{
+  "_id": "13729",
+  "cz_category_id": "363",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.048Z"
+  }
+},{
+  "_id": "11403",
+  "cz_category_id": "363",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.049Z"
+  }
+},{
+  "_id": "9830",
+  "cz_category_id": "346",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.051Z"
+  }
+},{
+  "_id": "10575",
+  "cz_category_id": "520",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.055Z"
+  }
+},{
+  "_id": "11392",
+  "cz_category_id": "522",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.056Z"
+  }
+},{
+  "_id": "11391",
+  "cz_category_id": "522",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.057Z"
+  }
+},{
+  "_id": "11390",
+  "cz_category_id": "522",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.059Z"
+  }
+},{
+  "_id": "11389",
+  "cz_category_id": "522",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.060Z"
+  }
+},{
+  "_id": "10922",
+  "cz_category_id": "522",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.061Z"
+  }
+},{
+  "_id": "9866",
+  "cz_category_id": "522",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.063Z"
+  }
+},{
+  "_id": "8614",
+  "cz_category_id": "522",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.064Z"
+  }
+},{
+  "_id": "8613",
+  "cz_category_id": "522",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.065Z"
+  }
+},{
+  "_id": "8612",
+  "cz_category_id": "522",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.066Z"
+  }
+},{
+  "_id": "8610",
+  "cz_category_id": "522",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.067Z"
+  }
+},{
+  "_id": "8609",
+  "cz_category_id": "522",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.069Z"
+  }
+},{
+  "_id": "8608",
+  "cz_category_id": "522",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.070Z"
+  }
+},{
+  "_id": "6129",
+  "cz_category_id": "522",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.071Z"
+  }
+},{
+  "_id": "6127",
+  "cz_category_id": "522",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.072Z"
+  }
+},{
+  "_id": "19040",
+  "cz_category_id": "224",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.074Z"
+  }
+},{
+  "_id": "13209",
+  "cz_category_id": "224",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.075Z"
+  }
+},{
+  "_id": "13208",
+  "cz_category_id": "224",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.076Z"
+  }
+},{
+  "_id": "13205",
+  "cz_category_id": "224",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.077Z"
+  }
+},{
+  "_id": "13204",
+  "cz_category_id": "224",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.078Z"
+  }
+},{
+  "_id": "13203",
+  "cz_category_id": "224",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.079Z"
+  }
+},{
+  "_id": "13202",
+  "cz_category_id": "224",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.081Z"
+  }
+},{
+  "_id": "13201",
+  "cz_category_id": "224",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.082Z"
+  }
+},{
+  "_id": "13193",
+  "cz_category_id": "224",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.083Z"
+  }
+},{
+  "_id": "13191",
+  "cz_category_id": "224",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.085Z"
+  }
+},{
+  "_id": "13189",
+  "cz_category_id": "224",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.086Z"
+  }
+},{
+  "_id": "8822",
+  "cz_category_id": "468",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.087Z"
+  }
+},{
+  "_id": "8821",
+  "cz_category_id": "468",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.088Z"
+  }
+},{
+  "_id": "6085",
+  "cz_category_id": "468",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.089Z"
+  }
+},{
+  "_id": "17250",
+  "cz_category_id": "469",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.090Z"
+  }
+},{
+  "_id": "8823",
+  "cz_category_id": "469",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.092Z"
+  }
+},{
+  "_id": "13310",
+  "cz_category_id": "309",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.093Z"
+  }
+},{
+  "_id": "19284",
+  "cz_category_id": "195",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.094Z"
+  }
+},{
+  "_id": "19283",
+  "cz_category_id": "195",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.095Z"
+  }
+},{
+  "_id": "19282",
+  "cz_category_id": "195",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.097Z"
+  }
+},{
+  "_id": "19281",
+  "cz_category_id": "195",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.098Z"
+  }
+},{
+  "_id": "19277",
+  "cz_category_id": "195",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.099Z"
+  }
+},{
+  "_id": "19276",
+  "cz_category_id": "195",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.100Z"
+  }
+},{
+  "_id": "19190",
+  "cz_category_id": "195",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.101Z"
+  }
+},{
+  "_id": "13487",
+  "cz_category_id": "195",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.102Z"
+  }
+},{
+  "_id": "13486",
+  "cz_category_id": "195",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.104Z"
+  }
+},{
+  "_id": "12681",
+  "cz_category_id": "195",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.105Z"
+  }
+},{
+  "_id": "19285",
+  "cz_category_id": "195",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.106Z"
+  }
+},{
+  "_id": "13489",
+  "cz_category_id": "195",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.107Z"
+  }
+},{
+  "_id": "11414",
+  "cz_category_id": "510",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.108Z"
+  }
+},{
+  "_id": "11413",
+  "cz_category_id": "510",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.110Z"
+  }
+},{
+  "_id": "11412",
+  "cz_category_id": "510",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.111Z"
+  }
+},{
+  "_id": "11411",
+  "cz_category_id": "510",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.112Z"
+  }
+},{
+  "_id": "11410",
+  "cz_category_id": "510",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.113Z"
+  }
+},{
+  "_id": "11409",
+  "cz_category_id": "510",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.115Z"
+  }
+},{
+  "_id": "11408",
+  "cz_category_id": "510",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.116Z"
+  }
+},{
+  "_id": "8953",
+  "cz_category_id": "510",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.117Z"
+  }
+},{
+  "_id": "8952",
+  "cz_category_id": "510",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.118Z"
+  }
+},{
+  "_id": "8951",
+  "cz_category_id": "510",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.120Z"
+  }
+},{
+  "_id": "8950",
+  "cz_category_id": "510",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.121Z"
+  }
+},{
+  "_id": "8949",
+  "cz_category_id": "510",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.122Z"
+  }
+},{
+  "_id": "6008",
+  "cz_category_id": "510",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.123Z"
+  }
+},{
+  "_id": "15142",
+  "cz_category_id": "512",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.124Z"
+  }
+},{
+  "_id": "15136",
+  "cz_category_id": "513",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.126Z"
+  }
+},{
+  "_id": "8598",
+  "cz_category_id": "517",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.127Z"
+  }
+},{
+  "_id": "11329",
+  "cz_category_id": "516",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.128Z"
+  }
+},{
+  "_id": "9576",
+  "cz_category_id": "516",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.129Z"
+  }
+},{
+  "_id": "13048",
+  "cz_category_id": "111",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.131Z"
+  }
+},{
+  "_id": "13418",
+  "cz_category_id": "111",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.132Z"
+  }
+},{
+  "_id": "13058",
+  "cz_category_id": "112",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.133Z"
+  }
+},{
+  "_id": "13057",
+  "cz_category_id": "112",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.134Z"
+  }
+},{
+  "_id": "13060",
+  "cz_category_id": "113",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.136Z"
+  }
+},{
+  "_id": "13062",
+  "cz_category_id": "114",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.137Z"
+  }
+},{
+  "_id": "13089",
+  "cz_category_id": "121",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.139Z"
+  }
+},{
+  "_id": "14290",
+  "cz_category_id": "132",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.141Z"
+  }
+},{
+  "_id": "13095",
+  "cz_category_id": "123",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.142Z"
+  }
+},{
+  "_id": "13092",
+  "cz_category_id": "123",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.145Z"
+  }
+},{
+  "_id": "13093",
+  "cz_category_id": "123",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.147Z"
+  }
+},{
+  "_id": "8611",
+  "cz_category_id": "518",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.148Z"
+  }
+},{
+  "_id": "13795",
+  "cz_category_id": "670",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.149Z"
+  }
+},{
+  "_id": "14300",
+  "cz_category_id": "146",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.151Z"
+  }
+},{
+  "_id": "9911",
+  "cz_category_id": "146",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.152Z"
+  }
+},{
+  "_id": "6063",
+  "cz_category_id": "146",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.154Z"
+  }
+},{
+  "_id": "11323",
+  "cz_category_id": "178",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.155Z"
+  }
+},{
+  "_id": "11321",
+  "cz_category_id": "178",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.157Z"
+  }
+},{
+  "_id": "11314",
+  "cz_category_id": "178",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.158Z"
+  }
+},{
+  "_id": "9944",
+  "cz_category_id": "178",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.160Z"
+  }
+},{
+  "_id": "9912",
+  "cz_category_id": "147",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.161Z"
+  }
+},{
+  "_id": "17657",
+  "cz_category_id": "177",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.163Z"
+  }
+},{
+  "_id": "19011",
+  "cz_category_id": "186",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.164Z"
+  }
+},{
+  "_id": "19006",
+  "cz_category_id": "186",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.166Z"
+  }
+},{
+  "_id": "19000",
+  "cz_category_id": "186",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.167Z"
+  }
+},{
+  "_id": "18990",
+  "cz_category_id": "186",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.169Z"
+  }
+},{
+  "_id": "18982",
+  "cz_category_id": "186",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.170Z"
+  }
+},{
+  "_id": "19004",
+  "cz_category_id": "186",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.173Z"
+  }
+},{
+  "_id": "11297",
+  "cz_category_id": "179",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.174Z"
+  }
+},{
+  "_id": "6071",
+  "cz_category_id": "179",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.176Z"
+  }
+},{
+  "_id": "11295",
+  "cz_category_id": "181",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.177Z"
+  }
+},{
+  "_id": "16954",
+  "cz_category_id": "389",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.178Z"
+  }
+},{
+  "_id": "13300",
+  "cz_category_id": "303",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.179Z"
+  }
+},{
+  "_id": "13415",
+  "cz_category_id": "432",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.181Z"
+  }
+},{
+  "_id": "13121",
+  "cz_category_id": "433",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.182Z"
+  }
+},{
+  "_id": "13117",
+  "cz_category_id": "433",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.183Z"
+  }
+},{
+  "_id": "13103",
+  "cz_category_id": "449",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.184Z"
+  }
+},{
+  "_id": "16951",
+  "cz_category_id": "388",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.185Z"
+  }
+},{
+  "_id": "19890",
+  "cz_category_id": "307",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.187Z"
+  }
+},{
+  "_id": "14392",
+  "cz_category_id": "316",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.188Z"
+  }
+},{
+  "_id": "14391",
+  "cz_category_id": "316",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.189Z"
+  }
+},{
+  "_id": "14390",
+  "cz_category_id": "316",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.190Z"
+  }
+},{
+  "_id": "14382",
+  "cz_category_id": "316",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.192Z"
+  }
+},{
+  "_id": "14381",
+  "cz_category_id": "316",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.193Z"
+  }
+},{
+  "_id": "14380",
+  "cz_category_id": "316",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.194Z"
+  }
+},{
+  "_id": "14379",
+  "cz_category_id": "316",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.195Z"
+  }
+},{
+  "_id": "14378",
+  "cz_category_id": "316",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.197Z"
+  }
+},{
+  "_id": "14372",
+  "cz_category_id": "316",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.198Z"
+  }
+},{
+  "_id": "14358",
+  "cz_category_id": "316",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.199Z"
+  }
+},{
+  "_id": "16854",
+  "cz_category_id": "523",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.200Z"
+  }
+},{
+  "_id": "16853",
+  "cz_category_id": "523",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.203Z"
+  }
+},{
+  "_id": "16852",
+  "cz_category_id": "523",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.206Z"
+  }
+},{
+  "_id": "16851",
+  "cz_category_id": "523",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.208Z"
+  }
+},{
+  "_id": "16850",
+  "cz_category_id": "523",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.210Z"
+  }
+},{
+  "_id": "16849",
+  "cz_category_id": "523",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.212Z"
+  }
+},{
+  "_id": "10570",
+  "cz_category_id": "526",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.214Z"
+  }
+},{
+  "_id": "10384",
+  "cz_category_id": "358",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.215Z"
+  }
+},{
+  "_id": "16834",
+  "cz_category_id": "462",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.218Z"
+  }
+},{
+  "_id": "16833",
+  "cz_category_id": "462",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.219Z"
+  }
+},{
+  "_id": "16826",
+  "cz_category_id": "462",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.221Z"
+  }
+},{
+  "_id": "16818",
+  "cz_category_id": "462",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.224Z"
+  }
+},{
+  "_id": "16810",
+  "cz_category_id": "462",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.225Z"
+  }
+},{
+  "_id": "16787",
+  "cz_category_id": "462",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.227Z"
+  }
+},{
+  "_id": "6125",
+  "cz_category_id": "462",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.229Z"
+  }
+},{
+  "_id": "6003",
+  "cz_category_id": "462",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.230Z"
+  }
+},{
+  "_id": "13102",
+  "cz_category_id": "446",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.232Z"
+  }
+},{
+  "_id": "8798",
+  "cz_category_id": "228",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.234Z"
+  }
+},{
+  "_id": "9039",
+  "cz_category_id": "225",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.235Z"
+  }
+},{
+  "_id": "9038",
+  "cz_category_id": "225",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.237Z"
+  }
+},{
+  "_id": "9037",
+  "cz_category_id": "225",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.239Z"
+  }
+},{
+  "_id": "9036",
+  "cz_category_id": "225",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.242Z"
+  }
+},{
+  "_id": "9035",
+  "cz_category_id": "225",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.244Z"
+  }
+},{
+  "_id": "9034",
+  "cz_category_id": "225",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.245Z"
+  }
+},{
+  "_id": "9033",
+  "cz_category_id": "225",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.246Z"
+  }
+},{
+  "_id": "6033",
+  "cz_category_id": "225",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.248Z"
+  }
+},{
+  "_id": "13100",
+  "cz_category_id": "444",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.249Z"
+  }
+},{
+  "_id": "13098",
+  "cz_category_id": "445",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.250Z"
+  }
+},{
+  "_id": "13171",
+  "cz_category_id": "438",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.252Z"
+  }
+},{
+  "_id": "13421",
+  "cz_category_id": "438",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.253Z"
+  }
+},{
+  "_id": "8852",
+  "cz_category_id": "248",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.255Z"
+  }
+},{
+  "_id": "10358",
+  "cz_category_id": "498",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.256Z"
+  }
+},{
+  "_id": "10357",
+  "cz_category_id": "498",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.257Z"
+  }
+},{
+  "_id": "19891",
+  "cz_category_id": "576",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.258Z"
+  }
+},{
+  "_id": "13464",
+  "cz_category_id": "576",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.262Z"
+  }
+},{
+  "_id": "13322",
+  "cz_category_id": "576",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.263Z"
+  }
+},{
+  "_id": "11348",
+  "cz_category_id": "506",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.265Z"
+  }
+},{
+  "_id": "19252",
+  "cz_category_id": "193",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.266Z"
+  }
+},{
+  "_id": "19236",
+  "cz_category_id": "193",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.268Z"
+  }
+},{
+  "_id": "19012",
+  "cz_category_id": "191",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.270Z"
+  }
+},{
+  "_id": "19007",
+  "cz_category_id": "191",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.272Z"
+  }
+},{
+  "_id": "19001",
+  "cz_category_id": "191",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.273Z"
+  }
+},{
+  "_id": "18994",
+  "cz_category_id": "191",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.275Z"
+  }
+},{
+  "_id": "18986",
+  "cz_category_id": "191",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.277Z"
+  }
+},{
+  "_id": "8948",
+  "cz_category_id": "212",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.279Z"
+  }
+},{
+  "_id": "8947",
+  "cz_category_id": "212",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.281Z"
+  }
+},{
+  "_id": "8946",
+  "cz_category_id": "212",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.282Z"
+  }
+},{
+  "_id": "6006",
+  "cz_category_id": "212",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.284Z"
+  }
+},{
+  "_id": "19009",
+  "cz_category_id": "192",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.285Z"
+  }
+},{
+  "_id": "19002",
+  "cz_category_id": "192",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.287Z"
+  }
+},{
+  "_id": "18993",
+  "cz_category_id": "192",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.288Z"
+  }
+},{
+  "_id": "18989",
+  "cz_category_id": "192",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.290Z"
+  }
+},{
+  "_id": "18985",
+  "cz_category_id": "192",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.291Z"
+  }
+},{
+  "_id": "18981",
+  "cz_category_id": "192",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.293Z"
+  }
+},{
+  "_id": "18979",
+  "cz_category_id": "192",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.294Z"
+  }
+},{
+  "_id": "13458",
+  "cz_category_id": "205",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.296Z"
+  }
+},{
+  "_id": "13371",
+  "cz_category_id": "205",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.297Z"
+  }
+},{
+  "_id": "13370",
+  "cz_category_id": "205",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.298Z"
+  }
+},{
+  "_id": "13369",
+  "cz_category_id": "205",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.300Z"
+  }
+},{
+  "_id": "13172",
+  "cz_category_id": "205",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.301Z"
+  }
+},{
+  "_id": "11402",
+  "cz_category_id": "205",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.303Z"
+  }
+},{
+  "_id": "11400",
+  "cz_category_id": "205",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.304Z"
+  }
+},{
+  "_id": "11320",
+  "cz_category_id": "162",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.305Z"
+  }
+},{
+  "_id": "11319",
+  "cz_category_id": "162",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.307Z"
+  }
+},{
+  "_id": "11386",
+  "cz_category_id": "218",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.308Z"
+  }
+},{
+  "_id": "10917",
+  "cz_category_id": "218",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.309Z"
+  }
+},{
+  "_id": "8620",
+  "cz_category_id": "218",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.311Z"
+  }
+},{
+  "_id": "8619",
+  "cz_category_id": "218",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.312Z"
+  }
+},{
+  "_id": "8618",
+  "cz_category_id": "218",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.314Z"
+  }
+},{
+  "_id": "8617",
+  "cz_category_id": "218",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.315Z"
+  }
+},{
+  "_id": "8616",
+  "cz_category_id": "218",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.317Z"
+  }
+},{
+  "_id": "6126",
+  "cz_category_id": "218",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.318Z"
+  }
+},{
+  "_id": "11385",
+  "cz_category_id": "219",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.320Z"
+  }
+},{
+  "_id": "8626",
+  "cz_category_id": "219",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.321Z"
+  }
+},{
+  "_id": "8599",
+  "cz_category_id": "219",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.323Z"
+  }
+},{
+  "_id": "8596",
+  "cz_category_id": "219",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.324Z"
+  }
+},{
+  "_id": "8595",
+  "cz_category_id": "219",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.325Z"
+  }
+},{
+  "_id": "11415",
+  "cz_category_id": "203",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.327Z"
+  }
+},{
+  "_id": "10179",
+  "cz_category_id": "203",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.328Z"
+  }
+},{
+  "_id": "10178",
+  "cz_category_id": "203",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.329Z"
+  }
+},{
+  "_id": "11350",
+  "cz_category_id": "206",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.331Z"
+  }
+},{
+  "_id": "11349",
+  "cz_category_id": "206",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.332Z"
+  }
+},{
+  "_id": "13442",
+  "cz_category_id": "486",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.333Z"
+  }
+},{
+  "_id": "8850",
+  "cz_category_id": "471",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.335Z"
+  }
+},{
+  "_id": "11212",
+  "cz_category_id": "479",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.336Z"
+  }
+},{
+  "_id": "10360",
+  "cz_category_id": "479",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.337Z"
+  }
+},{
+  "_id": "13448",
+  "cz_category_id": "480",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.339Z"
+  }
+},{
+  "_id": "16835",
+  "cz_category_id": "461",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.340Z"
+  }
+},{
+  "_id": "16827",
+  "cz_category_id": "461",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.342Z"
+  }
+},{
+  "_id": "16819",
+  "cz_category_id": "461",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.343Z"
+  }
+},{
+  "_id": "16812",
+  "cz_category_id": "461",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.345Z"
+  }
+},{
+  "_id": "16788",
+  "cz_category_id": "461",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.346Z"
+  }
+},{
+  "_id": "8548",
+  "cz_category_id": "265",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.348Z"
+  }
+},{
+  "_id": "8849",
+  "cz_category_id": "254",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.349Z"
+  }
+},{
+  "_id": "13760",
+  "cz_category_id": "245",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.350Z"
+  }
+},{
+  "_id": "8908",
+  "cz_category_id": "245",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.351Z"
+  }
+},{
+  "_id": "10568",
+  "cz_category_id": "261",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.353Z"
+  }
+},{
+  "_id": "8565",
+  "cz_category_id": "261",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.354Z"
+  }
+},{
+  "_id": "8564",
+  "cz_category_id": "261",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.356Z"
+  }
+},{
+  "_id": "8563",
+  "cz_category_id": "261",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.357Z"
+  }
+},{
+  "_id": "6137",
+  "cz_category_id": "261",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.359Z"
+  }
+},{
+  "_id": "8800",
+  "cz_category_id": "241",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.360Z"
+  }
+},{
+  "_id": "19041",
+  "cz_category_id": "229",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.361Z"
+  }
+},{
+  "_id": "19038",
+  "cz_category_id": "229",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.363Z"
+  }
+},{
+  "_id": "16825",
+  "cz_category_id": "235",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.364Z"
+  }
+},{
+  "_id": "16824",
+  "cz_category_id": "235",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.366Z"
+  }
+},{
+  "_id": "16823",
+  "cz_category_id": "235",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.367Z"
+  }
+},{
+  "_id": "16822",
+  "cz_category_id": "235",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.369Z"
+  }
+},{
+  "_id": "16799",
+  "cz_category_id": "235",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.371Z"
+  }
+},{
+  "_id": "16795",
+  "cz_category_id": "235",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.375Z"
+  }
+},{
+  "_id": "16794",
+  "cz_category_id": "235",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.377Z"
+  }
+},{
+  "_id": "16793",
+  "cz_category_id": "235",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.378Z"
+  }
+},{
+  "_id": "16947",
+  "cz_category_id": "394",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.379Z"
+  }
+},{
+  "_id": "9828",
+  "cz_category_id": "351",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.381Z"
+  }
+},{
+  "_id": "11978",
+  "cz_category_id": "354",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.382Z"
+  }
+},{
+  "_id": "16969",
+  "cz_category_id": "376",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.383Z"
+  }
+},{
+  "_id": "16968",
+  "cz_category_id": "376",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.385Z"
+  }
+},{
+  "_id": "14161",
+  "cz_category_id": "376",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.387Z"
+  }
+},{
+  "_id": "14155",
+  "cz_category_id": "376",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.388Z"
+  }
+},{
+  "_id": "21579",
+  "cz_category_id": "702",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.390Z"
+  }
+},{
+  "_id": "21580",
+  "cz_category_id": "703",
+  "cz_category_level": 3,
+  "updated_at": {
+    "$date": "2020-12-21T09:31:42.391Z"
+  }
+}]

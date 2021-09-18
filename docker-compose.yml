@@ -1,0 +1,21 @@
+version: "3"
+services:
+  api:
+    image: "${IMAGE_BUILD}"
+    ports:
+      - "3003:3003"
+    environment:
+      - PORT=3003
+      - MONGODB_URI=mongodb://cz-crawl-data:E9nNKCIpAkr3Gud85J@172.20.1.16:27017/cz-crawl-data
+      - SHOPEE_API=http://shopee.vn/api
+      - AUTO_INDEX=true
+      - CHOZOI_API=https://api.chozoi.vn
+      - TTS_API=https://thitruongsi.com
+      - JWT_KEY=ohcioz
+      - ZASI_API=https://api.zasi.vn
+      - SENDO_HTTP=https://www.sendo.vn
+     
+    volumes:
+      - /home/vuonglv/cz-crawler/sitemaps/shopee:/app/sitemaps
+      - ./downloads:/app/downloads
+      - ./logs:/app/logs
